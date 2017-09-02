@@ -1,0 +1,6916 @@
+Set: 7830
+Cans: 48
+Line: 1
+Misspelled Word: osx
+Correct Word: osx
+not match
+******************************************
+
+Set: 6771
+Cans: 101
+Line: 2
+Misspelled Word: gt
+Correct Word: got
+match
+******************************************
+
+Set: 6836
+Cans: 119
+Line: 3
+Misspelled Word: fawk
+Correct Word: fuck
+not match
+******************************************
+
+Set: 12853
+Cans: 100
+Line: 4
+Misspelled Word: themed
+Correct Word: themed
+not match
+******************************************
+
+Set: 8786
+Cans: 11
+Line: 5
+Misspelled Word: irrate
+Correct Word: irate
+match
+******************************************
+
+Set: 24929
+Cans: 306
+Line: 6
+Misspelled Word: suckss
+Correct Word: sucks
+not match
+******************************************
+
+Set: 9613
+Cans: 80
+Line: 7
+Misspelled Word: remeber
+Correct Word: remember
+match
+******************************************
+
+Set: 3910
+Cans: 37
+Line: 8
+Misspelled Word: wasstheedeaal
+Correct Word: wasstheedeaal
+not match
+******************************************
+
+Set: 6771
+Cans: 71
+Line: 9
+Misspelled Word: gf
+Correct Word: girlfriend
+not match
+******************************************
+
+Set: 8703
+Cans: 31
+Line: 10
+Misspelled Word: elfsinjapan
+Correct Word: elfsinjapan
+not match
+******************************************
+
+Set: 19783
+Cans: 53
+Line: 11
+Misspelled Word: cofused
+Correct Word: confused
+not match
+******************************************
+
+Set: 6836
+Cans: 187
+Line: 12
+Misspelled Word: freakin
+Correct Word: freaking
+not match
+******************************************
+
+Set: 6228
+Cans: 42
+Line: 13
+Misspelled Word: liao
+Correct Word: liao
+not match
+******************************************
+
+Set: 16974
+Cans: 198
+Line: 14
+Misspelled Word: aquired
+Correct Word: acquired
+match
+******************************************
+
+Set: 19783
+Cans: 100
+Line: 15
+Misspelled Word: chillin
+Correct Word: chilling
+not match
+******************************************
+
+Set: 8992
+Cans: 87
+Line: 16
+Misspelled Word: hmmm
+Correct Word: hmmm
+not match
+******************************************
+
+Set: 16974
+Cans: 53
+Line: 17
+Misspelled Word: allll
+Correct Word: all
+match
+******************************************
+
+Set: 8786
+Cans: 34
+Line: 18
+Misspelled Word: imma
+Correct Word: imma
+not match
+******************************************
+
+Set: 6836
+Cans: 269
+Line: 19
+Misspelled Word: farmington
+Correct Word: farmington
+not match
+******************************************
+
+Set: 12853
+Cans: 122
+Line: 20
+Misspelled Word: tt
+Correct Word: tt
+not match
+******************************************
+
+Set: 0
+Cans: 1
+Line: 21
+Misspelled Word: 0
+Correct Word: hey
+Candidates: set(['0'])
+not match
+******************************************
+
+Set: 8786
+Cans: 57
+Line: 22
+Misspelled Word: insya
+Correct Word: insya
+not match
+******************************************
+
+Set: 9613
+Cans: 81
+Line: 23
+Misspelled Word: retweets
+Correct Word: retweets
+not match
+******************************************
+
+Set: 3910
+Cans: 57
+Line: 24
+Misspelled Word: wiff
+Correct Word: with
+not match
+******************************************
+
+Set: 12513
+Cans: 250
+Line: 25
+Misspelled Word: makeing
+Correct Word: making
+match
+******************************************
+
+Set: 16361
+Cans: 18
+Line: 26
+Misspelled Word: uploaded
+Correct Word: uploaded
+not match
+******************************************
+
+Set: 12513
+Cans: 37
+Line: 27
+Misspelled Word: mouf
+Correct Word: mouth
+not match
+******************************************
+
+Set: 663
+Cans: 23
+Line: 28
+Misspelled Word: yihaaa
+Correct Word: yihaaa
+not match
+******************************************
+
+Set: 24929
+Cans: 283
+Line: 29
+Misspelled Word: sonqs
+Correct Word: songs
+not match
+******************************************
+
+Set: 6836
+Cans: 49
+Line: 30
+Misspelled Word: fuun
+Correct Word: fun
+match
+******************************************
+
+Set: 6228
+Cans: 6
+Line: 31
+Misspelled Word: lurvv
+Correct Word: love
+Candidates: set(['larve', 'larvae', 'lerp', 'liripipe', 'larva', 'larrup'])
+not match
+******************************************
+
+Set: 6743
+Cans: 112
+Line: 32
+Misspelled Word: niqqa
+Correct Word: nigga
+not match
+******************************************
+
+Set: 6743
+Cans: 29
+Line: 33
+Misspelled Word: neway
+Correct Word: anyway
+not match
+******************************************
+
+Set: 1603
+Cans: 16
+Line: 34
+Misspelled Word: ja
+Correct Word: ja
+not match
+******************************************
+
+Set: 6836
+Cans: 7
+Line: 35
+Misspelled Word: facebook
+Correct Word: facebook
+Candidates: set(['fussification', 'figpecker', 'facepiece', 'fissipes', 'foxfish', 'fuciphagous', 'fishback'])
+not match
+******************************************
+
+Set: 24929
+Cans: 179
+Line: 36
+Misspelled Word: sometimesz
+Correct Word: sometimes
+match
+******************************************
+
+Set: 6836
+Cans: 21
+Line: 37
+Misspelled Word: fab
+Correct Word: fab
+not match
+******************************************
+
+Set: 6228
+Cans: 21
+Line: 38
+Misspelled Word: lerman
+Correct Word: lerman
+not match
+******************************************
+
+Set: 9613
+Cans: 125
+Line: 39
+Misspelled Word: ramen
+Correct Word: ramen
+not match
+******************************************
+
+Set: 3910
+Cans: 82
+Line: 40
+Misspelled Word: w00t
+Correct Word: w00t
+not match
+******************************************
+
+Set: 3418
+Cans: 23
+Line: 41
+Misspelled Word: vero
+Correct Word: vero
+not match
+******************************************
+
+Set: 19783
+Cans: 262
+Line: 42
+Misspelled Word: chiick
+Correct Word: chick
+match
+******************************************
+
+Set: 6771
+Cans: 101
+Line: 43
+Misspelled Word: gatta
+Correct Word: gotta
+not match
+******************************************
+
+Set: 16974
+Cans: 23
+Line: 44
+Misspelled Word: awhh
+Correct Word: awhh
+not match
+******************************************
+
+Set: 8992
+Cans: 70
+Line: 45
+Misspelled Word: hyd
+Correct Word: hyd
+not match
+******************************************
+
+Set: 24929
+Cans: 132
+Line: 46
+Misspelled Word: slowlyy
+Correct Word: slowly
+match
+******************************************
+
+Set: 6228
+Cans: 221
+Line: 47
+Misspelled Word: lyke
+Correct Word: like
+match
+******************************************
+
+Set: 24929
+Cans: 283
+Line: 48
+Misspelled Word: s0ngg
+Correct Word: song
+match
+******************************************
+
+Set: 6771
+Cans: 31
+Line: 49
+Misspelled Word: gettin
+Correct Word: getting
+not match
+******************************************
+
+Set: 24929
+Cans: 67
+Line: 50
+Misspelled Word: soooo
+Correct Word: so
+match
+******************************************
+
+Set: 24929
+Cans: 318
+Line: 51
+Misspelled Word: startin
+Correct Word: starting
+match
+******************************************
+
+Set: 0
+Cans: 1
+Line: 52
+Misspelled Word: 2funny
+Correct Word: 2funny
+Candidates: set(['2funny'])
+match
+******************************************
+
+Set: 12853
+Cans: 127
+Line: 53
+Misspelled Word: tru
+Correct Word: TRUE
+not match
+******************************************
+
+Set: 663
+Cans: 15
+Line: 54
+Misspelled Word: yall
+Correct Word: y'all
+not match
+******************************************
+
+Set: 0
+Cans: 1
+Line: 55
+Misspelled Word: 10k
+Correct Word: 10k
+Candidates: set(['10k'])
+match
+******************************************
+
+Set: 8786
+Cans: 25
+Line: 56
+Misspelled Word: iht
+Correct Word: it
+match
+******************************************
+
+Set: 7830
+Cans: 45
+Line: 57
+Misspelled Word: oneshot
+Correct Word: oneshot
+not match
+******************************************
+
+Set: 19783
+Cans: 45
+Line: 58
+Misspelled Word: convo
+Correct Word: conversation
+not match
+******************************************
+
+Set: 16974
+Cans: 53
+Line: 59
+Misspelled Word: allllllllll
+Correct Word: all
+match
+******************************************
+
+Set: 6836
+Cans: 100
+Line: 60
+Misspelled Word: friiied
+Correct Word: fried
+match
+******************************************
+
+Set: 8786
+Cans: 27
+Line: 61
+Misspelled Word: itailian
+Correct Word: Italian
+not match
+******************************************
+
+Set: 19783
+Cans: 41
+Line: 62
+Misspelled Word: chey
+Correct Word: chey
+not match
+******************************************
+
+Set: 6836
+Cans: 90
+Line: 63
+Misspelled Word: foreevvvvverrr
+Correct Word: forever
+match
+******************************************
+
+Set: 6836
+Cans: 49
+Line: 64
+Misspelled Word: fina
+Correct Word: fina
+not match
+******************************************
+
+Set: 16361
+Cans: 17
+Line: 65
+Misspelled Word: uppp
+Correct Word: up
+match
+******************************************
+
+Set: 16361
+Cans: 28
+Line: 66
+Misspelled Word: ummm
+Correct Word: ummm
+not match
+******************************************
+
+Set: 3910
+Cans: 10
+Line: 67
+Misspelled Word: wattpad
+Correct Word: wattpad
+not match
+******************************************
+
+Set: 19783
+Cans: 156
+Line: 68
+Misspelled Word: chem
+Correct Word: chemistry
+not match
+******************************************
+
+Set: 6743
+Cans: 29
+Line: 69
+Misspelled Word: nthn
+Correct Word: nothing
+not match
+******************************************
+
+Set: 24929
+Cans: 115
+Line: 70
+Misspelled Word: shulda
+Correct Word: should've
+not match
+******************************************
+
+Set: 3910
+Cans: 48
+Line: 71
+Misspelled Word: weddingg
+Correct Word: wedding
+match
+******************************************
+
+Set: 12513
+Cans: 164
+Line: 72
+Misspelled Word: mcdonalds
+Correct Word: mcdonalds
+not match
+******************************************
+
+Set: 12853
+Cans: 73
+Line: 73
+Misspelled Word: tastic
+Correct Word: tastic
+not match
+******************************************
+
+Set: 10849
+Cans: 53
+Line: 74
+Misspelled Word: deadmau5
+Correct Word: deadmau5
+not match
+******************************************
+
+Set: 663
+Cans: 18
+Line: 75
+Misspelled Word: youur
+Correct Word: you're
+not match
+******************************************
+
+Set: 6836
+Cans: 32
+Line: 76
+Misspelled Word: fuckn
+Correct Word: fucking
+not match
+******************************************
+
+Set: 24341
+Cans: 98
+Line: 77
+Misspelled Word: playe
+Correct Word: player
+not match
+******************************************
+
+Set: 16974
+Cans: 56
+Line: 78
+Misspelled Word: abt
+Correct Word: about
+match
+******************************************
+
+Set: 8786
+Cans: 10
+Line: 79
+Misspelled Word: ipod
+Correct Word: ipod
+not match
+******************************************
+
+Set: 24929
+Cans: 306
+Line: 80
+Misspelled Word: sux
+Correct Word: sucks
+not match
+******************************************
+
+Set: 12513
+Cans: 42
+Line: 81
+Misspelled Word: mee
+Correct Word: me
+match
+******************************************
+
+Set: 9613
+Cans: 126
+Line: 82
+Misspelled Word: referng
+Correct Word: referring
+not match
+******************************************
+
+Set: 24929
+Cans: 59
+Line: 83
+Misspelled Word: shutup
+Correct Word: shutup
+not match
+******************************************
+
+Set: 19783
+Cans: 156
+Line: 84
+Misspelled Word: c'mon
+Correct Word: c'mon
+not match
+******************************************
+
+Set: 19783
+Cans: 127
+Line: 85
+Misspelled Word: culd
+Correct Word: could
+match
+******************************************
+
+Set: 6743
+Cans: 75
+Line: 86
+Misspelled Word: neng
+Correct Word: neng
+not match
+******************************************
+
+Set: 6836
+Cans: 64
+Line: 87
+Misspelled Word: follwers
+Correct Word: followers
+not match
+******************************************
+
+Set: 9613
+Cans: 83
+Line: 88
+Misspelled Word: ridin
+Correct Word: riding
+not match
+******************************************
+
+Set: 8786
+Cans: 400
+Line: 89
+Misspelled Word: industr
+Correct Word: industry
+match
+******************************************
+
+Set: 8703
+Cans: 28
+Line: 90
+Misspelled Word: eminem
+Correct Word: eminem
+not match
+******************************************
+
+Set: 6771
+Cans: 121
+Line: 91
+Misspelled Word: gm
+Correct Word: gm
+not match
+******************************************
+
+Set: 16974
+Cans: 131
+Line: 92
+Misspelled Word: aqen
+Correct Word: again
+match
+******************************************
+
+Set: 3910
+Cans: 7
+Line: 93
+Misspelled Word: wateva
+Correct Word: whatever
+Candidates: set(['witbooi', 'widdifow', 'whitetop', 'whiteboy', 'whitetip', 'wattape', 'watap'])
+not match
+******************************************
+
+Set: 6228
+Cans: 113
+Line: 94
+Misspelled Word: longstockings
+Correct Word: longstockings
+not match
+******************************************
+
+Set: 1603
+Cans: 78
+Line: 95
+Misspelled Word: jaz
+Correct Word: jaz
+not match
+******************************************
+
+Set: 3910
+Cans: 131
+Line: 96
+Misspelled Word: wasss
+Correct Word: was
+match
+******************************************
+
+Set: 24929
+Cans: 115
+Line: 97
+Misspelled Word: shoulda
+Correct Word: should've
+not match
+******************************************
+
+Set: 6743
+Cans: 112
+Line: 98
+Misspelled Word: nga
+Correct Word: nga
+not match
+******************************************
+
+Set: 24341
+Cans: 139
+Line: 99
+Misspelled Word: pasti
+Correct Word: pasti
+not match
+******************************************
+
+Set: 8992
+Cans: 62
+Line: 100
+Misspelled Word: hbo
+Correct Word: hbo
+not match
+******************************************
+
+Set: 10963
+Cans: 160
+Line: 101
+Misspelled Word: bizness
+Correct Word: business
+match
+******************************************
+
+Set: 24929
+Cans: 123
+Line: 102
+Misspelled Word: skool
+Correct Word: school
+match
+******************************************
+
+Set: 12853
+Cans: 44
+Line: 103
+Misspelled Word: tomoro
+Correct Word: tomorrow
+match
+******************************************
+
+Set: 1603
+Cans: 43
+Line: 104
+Misspelled Word: jamz
+Correct Word: jams
+not match
+******************************************
+
+Set: 24341
+Cans: 259
+Line: 105
+Misspelled Word: pics
+Correct Word: pictures
+not match
+******************************************
+
+Set: 3910
+Cans: 36
+Line: 106
+Misspelled Word: walkin
+Correct Word: walking
+match
+******************************************
+
+Set: 12853
+Cans: 109
+Line: 107
+Misspelled Word: tv
+Correct Word: tv
+not match
+******************************************
+
+Set: 8992
+Cans: 87
+Line: 108
+Misspelled Word: himm
+Correct Word: him
+match
+******************************************
+
+Set: 6743
+Cans: 65
+Line: 109
+Misspelled Word: nitee
+Correct Word: night
+not match
+******************************************
+
+Set: 6228
+Cans: 27
+Line: 110
+Misspelled Word: lml
+Correct Word: lml
+not match
+******************************************
+
+Set: 2239
+Cans: 30
+Line: 111
+Misspelled Word: kools
+Correct Word: cools
+not match
+******************************************
+
+Set: 6228
+Cans: 24
+Line: 112
+Misspelled Word: lmfaoooo
+Correct Word: lmfaoooo
+not match
+******************************************
+
+Set: 8992
+Cans: 40
+Line: 113
+Misspelled Word: hahaah
+Correct Word: haha
+not match
+******************************************
+
+Set: 6771
+Cans: 30
+Line: 114
+Misspelled Word: girrrrl
+Correct Word: girl
+match
+******************************************
+
+Set: 16974
+Cans: 33
+Line: 115
+Misspelled Word: appli
+Correct Word: apply
+match
+******************************************
+
+Set: 16974
+Cans: 42
+Line: 116
+Misspelled Word: app
+Correct Word: app
+not match
+******************************************
+
+Set: 3910
+Cans: 56
+Line: 117
+Misspelled Word: wil
+Correct Word: will
+match
+******************************************
+
+Set: 10963
+Cans: 114
+Line: 118
+Misspelled Word: bro
+Correct Word: bro
+not match
+******************************************
+
+Set: 8992
+Cans: 40
+Line: 119
+Misspelled Word: hahahahah
+Correct Word: haha
+not match
+******************************************
+
+Set: 0
+Cans: 1
+Line: 120
+Misspelled Word: 1st
+Correct Word: first
+Candidates: set(['1st'])
+not match
+******************************************
+
+Set: 10963
+Cans: 147
+Line: 121
+Misspelled Word: blck
+Correct Word: black
+match
+******************************************
+
+Set: 12853
+Cans: 115
+Line: 122
+Misspelled Word: txt
+Correct Word: text
+match
+******************************************
+
+Set: 663
+Cans: 18
+Line: 123
+Misspelled Word: yuhr
+Correct Word: you're
+not match
+******************************************
+
+Set: 16974
+Cans: 23
+Line: 124
+Misspelled Word: ayo
+Correct Word: ayo
+not match
+******************************************
+
+Set: 24929
+Cans: 59
+Line: 125
+Misspelled Word: shuddup
+Correct Word: shuddup
+not match
+******************************************
+
+Set: 9613
+Cans: 137
+Line: 126
+Misspelled Word: retweeted
+Correct Word: retweeted
+not match
+******************************************
+
+Set: 19783
+Cans: 149
+Line: 127
+Misspelled Word: cutee
+Correct Word: cutie
+match
+******************************************
+
+Set: 19783
+Cans: 156
+Line: 128
+Misspelled Word: cann
+Correct Word: can
+match
+******************************************
+
+Set: 8786
+Cans: 6
+Line: 129
+Misspelled Word: iphone
+Correct Word: iphone
+Candidates: set(['ivin', 'ipomoea', 'iban', 'ipomea', 'ivan', 'ipomoein'])
+not match
+******************************************
+
+Set: 10849
+Cans: 53
+Line: 130
+Misspelled Word: d4tts
+Correct Word: that's
+not match
+******************************************
+
+Set: 12513
+Cans: 282
+Line: 131
+Misspelled Word: msg
+Correct Word: message
+match
+******************************************
+
+Set: 12853
+Cans: 153
+Line: 132
+Misspelled Word: tryin
+Correct Word: trying
+not match
+******************************************
+
+Set: 3418
+Cans: 12
+Line: 133
+Misspelled Word: viewprofile
+Correct Word: viewprofile
+not match
+******************************************
+
+Set: 19783
+Cans: 56
+Line: 134
+Misspelled Word: choiceremoved
+Correct Word: choiceremoved
+not match
+******************************************
+
+Set: 2239
+Cans: 102
+Line: 135
+Misspelled Word: kashuk
+Correct Word: kashuk
+not match
+******************************************
+
+Set: 1603
+Cans: 78
+Line: 136
+Misspelled Word: jyjy
+Correct Word: jyjy
+not match
+******************************************
+
+Set: 12853
+Cans: 153
+Line: 137
+Misspelled Word: tryna
+Correct Word: tryna
+not match
+******************************************
+
+Set: 24929
+Cans: 215
+Line: 138
+Misspelled Word: skuurrrtin
+Correct Word: skirting
+match
+******************************************
+
+Set: 12853
+Cans: 180
+Line: 139
+Misspelled Word: thinjg
+Correct Word: thing
+match
+******************************************
+
+Set: 8992
+Cans: 40
+Line: 140
+Misspelled Word: haha
+Correct Word: haha
+not match
+******************************************
+
+Set: 16974
+Cans: 80
+Line: 141
+Misspelled Word: a'lasia
+Correct Word: a'lasia
+not match
+******************************************
+
+Set: 3418
+Cans: 37
+Line: 142
+Misspelled Word: viirgooss
+Correct Word: virgos
+not match
+******************************************
+
+Set: 8786
+Cans: 36
+Line: 143
+Misspelled Word: isay
+Correct Word: isay
+not match
+******************************************
+
+Set: 12853
+Cans: 42
+Line: 144
+Misspelled Word: teachrs
+Correct Word: teachers
+not match
+******************************************
+
+Set: 0
+Cans: 1
+Line: 145
+Misspelled Word: 4am
+Correct Word: 4am
+Candidates: set(['4am'])
+match
+******************************************
+
+Set: 10963
+Cans: 216
+Line: 146
+Misspelled Word: brugge
+Correct Word: brugge
+not match
+******************************************
+
+Set: 12513
+Cans: 282
+Line: 147
+Misspelled Word: mags
+Correct Word: mags
+not match
+******************************************
+
+Set: 6836
+Cans: 185
+Line: 148
+Misspelled Word: frnds
+Correct Word: friends
+not match
+******************************************
+
+Set: 19783
+Cans: 262
+Line: 149
+Misspelled Word: caz
+Correct Word: because
+not match
+******************************************
+
+Set: 12513
+Cans: 37
+Line: 150
+Misspelled Word: mf
+Correct Word: motherfucker
+not match
+******************************************
+
+Set: 3910
+Cans: 25
+Line: 151
+Misspelled Word: wearin
+Correct Word: wearing
+not match
+******************************************
+
+Set: 6743
+Cans: 112
+Line: 152
+Misspelled Word: niggas
+Correct Word: niggas
+not match
+******************************************
+
+Set: 3910
+Cans: 47
+Line: 153
+Misspelled Word: watchu
+Correct Word: watchu
+not match
+******************************************
+
+Set: 8992
+Cans: 40
+Line: 154
+Misspelled Word: hahah
+Correct Word: haha
+not match
+******************************************
+
+Set: 8786
+Cans: 7
+Line: 155
+Misspelled Word: ibe
+Correct Word: i'm
+Candidates: set(['iva', 'ibo', 'iba', 'iffy', 'ife', 'ivy', 'if'])
+not match
+******************************************
+
+Set: 6743
+Cans: 112
+Line: 156
+Misspelled Word: niggaz
+Correct Word: niggas
+not match
+******************************************
+
+Set: 19783
+Cans: 342
+Line: 157
+Misspelled Word: confrims
+Correct Word: confirms
+not match
+******************************************
+
+Set: 12853
+Cans: 123
+Line: 158
+Misspelled Word: thinkng
+Correct Word: thinking
+match
+******************************************
+
+Set: 12513
+Cans: 282
+Line: 159
+Misspelled Word: mzkee
+Correct Word: mzkee
+not match
+******************************************
+
+Set: 8703
+Cans: 286
+Line: 160
+Misspelled Word: enitiree
+Correct Word: entire
+match
+******************************************
+
+Set: 3418
+Cans: 63
+Line: 161
+Misspelled Word: vergin
+Correct Word: virgin
+match
+******************************************
+
+Set: 16974
+Cans: 124
+Line: 162
+Misspelled Word: aight
+Correct Word: alright
+not match
+******************************************
+
+Set: 12853
+Cans: 139
+Line: 163
+Misspelled Word: thuggin
+Correct Word: thugging
+not match
+******************************************
+
+Set: 10963
+Cans: 278
+Line: 164
+Misspelled Word: b-zo
+Correct Word: b-zo
+not match
+******************************************
+
+Set: 19783
+Cans: 127
+Line: 165
+Misspelled Word: coulda
+Correct Word: coulda
+not match
+******************************************
+
+Set: 10849
+Cans: 68
+Line: 166
+Misspelled Word: def
+Correct Word: definitely
+not match
+******************************************
+
+Set: 6836
+Cans: 20
+Line: 167
+Misspelled Word: f1
+Correct Word: f1
+not match
+******************************************
+
+Set: 12513
+Cans: 42
+Line: 168
+Misspelled Word: muaha
+Correct Word: muaha
+not match
+******************************************
+
+Set: 663
+Cans: 23
+Line: 169
+Misspelled Word: yeaaaa
+Correct Word: yea
+match
+******************************************
+
+Set: 6771
+Cans: 101
+Line: 170
+Misspelled Word: goood
+Correct Word: good
+match
+******************************************
+
+Set: 6228
+Cans: 152
+Line: 171
+Misspelled Word: looooong
+Correct Word: long
+match
+******************************************
+
+Set: 8703
+Cans: 177
+Line: 172
+Misspelled Word: expierince
+Correct Word: experience
+match
+******************************************
+
+Set: 24929
+Cans: 345
+Line: 173
+Misspelled Word: sugarpill
+Correct Word: sugarpill
+not match
+******************************************
+
+Set: 3910
+Cans: 2
+Line: 174
+Misspelled Word: wal-mart
+Correct Word: walmart
+Candidates: set(['wilmer', 'wellnear'])
+not match
+******************************************
+
+Set: 19783
+Cans: 248
+Line: 175
+Misspelled Word: crazi
+Correct Word: crazy
+match
+******************************************
+
+Set: 8992
+Cans: 87
+Line: 176
+Misspelled Word: homie
+Correct Word: homeboy
+not match
+******************************************
+
+Set: 16974
+Cans: 56
+Line: 177
+Misspelled Word: afta
+Correct Word: after
+not match
+******************************************
+
+Set: 24929
+Cans: 58
+Line: 178
+Misspelled Word: seriouslyyyy
+Correct Word: seriously
+match
+******************************************
+
+Set: 24929
+Cans: 156
+Line: 179
+Misspelled Word: spc
+Correct Word: spc
+not match
+******************************************
+
+Set: 663
+Cans: 23
+Line: 180
+Misspelled Word: yaaaay
+Correct Word: yay
+not match
+******************************************
+
+Set: 24341
+Cans: 467
+Line: 181
+Misspelled Word: pervs
+Correct Word: perverts
+not match
+******************************************
+
+Set: 24929
+Cans: 143
+Line: 182
+Misspelled Word: stillz
+Correct Word: stillz
+not match
+******************************************
+
+Set: 0
+Cans: 1
+Line: 183
+Misspelled Word: 1
+Correct Word: one
+Candidates: set(['1'])
+not match
+******************************************
+
+Set: 8992
+Cans: 87
+Line: 184
+Misspelled Word: hunni
+Correct Word: honey
+match
+******************************************
+
+Set: 663
+Cans: 23
+Line: 185
+Misspelled Word: yayyyyy
+Correct Word: yay
+not match
+******************************************
+
+Set: 8786
+Cans: 2
+Line: 186
+Misspelled Word: ilove
+Correct Word: ilove
+Candidates: set(['illipe', 'illupi'])
+not match
+******************************************
+
+Set: 6743
+Cans: 29
+Line: 187
+Misspelled Word: nya
+Correct Word: nya
+not match
+******************************************
+
+Set: 16974
+Cans: 42
+Line: 188
+Misspelled Word: afp
+Correct Word: afp
+not match
+******************************************
+
+Set: 12853
+Cans: 171
+Line: 189
+Misspelled Word: tomm
+Correct Word: tomorrow
+not match
+******************************************
+
+Set: 7830
+Cans: 26
+Line: 190
+Misspelled Word: ovr
+Correct Word: over
+match
+******************************************
+
+Set: 6228
+Cans: 32
+Line: 191
+Misspelled Word: leavin
+Correct Word: leaving
+not match
+******************************************
+
+Set: 3910
+Cans: 41
+Line: 192
+Misspelled Word: whoaa
+Correct Word: whoaa
+not match
+******************************************
+
+Set: 24929
+Cans: 143
+Line: 193
+Misspelled Word: sippp
+Correct Word: sippp
+not match
+******************************************
+
+Set: 8992
+Cans: 80
+Line: 194
+Misspelled Word: hurttss
+Correct Word: hurts
+not match
+******************************************
+
+Set: 10963
+Cans: 164
+Line: 195
+Misspelled Word: bday
+Correct Word: birthday
+not match
+******************************************
+
+Set: 10849
+Cans: 53
+Line: 196
+Misspelled Word: dats
+Correct Word: that's
+not match
+******************************************
+
+Set: 10963
+Cans: 278
+Line: 197
+Misspelled Word: bkk
+Correct Word: bkk
+not match
+******************************************
+
+Set: 3910
+Cans: 8
+Line: 198
+Misspelled Word: whippin
+Correct Word: whipping
+Candidates: set(['wabeno', 'weapon', 'wippen', 'woevine', 'wabena', 'whipman', 'wabuma', 'woven'])
+not match
+******************************************
+
+Set: 6228
+Cans: 24
+Line: 199
+Misspelled Word: lmfaoooooooooooooooooooooooooooooooooooooooooooooooo
+Correct Word: lmfaoooooooooooooooooooooooooooooooooooooooooooooooo
+not match
+******************************************
+
+Set: 8786
+Cans: 90
+Line: 200
+Misspelled Word: icantt
+Correct Word: icantt
+not match
+******************************************
+
+Set: 24341
+Cans: 111
+Line: 201
+Misspelled Word: planb
+Correct Word: planb
+not match
+******************************************
+
+Set: 8992
+Cans: 40
+Line: 202
+Misspelled Word: hahahaha
+Correct Word: haha
+not match
+******************************************
+
+Set: 3910
+Cans: 42
+Line: 203
+Misspelled Word: wrk
+Correct Word: work
+match
+******************************************
+
+Set: 24929
+Cans: 75
+Line: 204
+Misspelled Word: somewre
+Correct Word: somewhere
+match
+******************************************
+
+Set: 24929
+Cans: 179
+Line: 205
+Misspelled Word: somethin
+Correct Word: something
+match
+******************************************
+
+Set: 6836
+Cans: 32
+Line: 206
+Misspelled Word: fckn
+Correct Word: fucking
+not match
+******************************************
+
+Set: 24929
+Cans: 124
+Line: 207
+Misspelled Word: shootin
+Correct Word: shooting
+not match
+******************************************
+
+Set: 16974
+Cans: 151
+Line: 208
+Misspelled Word: achou
+Correct Word: achou
+not match
+******************************************
+
+Set: 6836
+Cans: 32
+Line: 209
+Misspelled Word: fkn
+Correct Word: fucking
+not match
+******************************************
+
+Set: 24929
+Cans: 283
+Line: 210
+Misspelled Word: sonq
+Correct Word: song
+match
+******************************************
+
+Set: 663
+Cans: 17
+Line: 211
+Misspelled Word: yaheard
+Correct Word: yaheard
+not match
+******************************************
+
+Set: 16361
+Cans: 3
+Line: 212
+Misspelled Word: ugh-good
+Correct Word: ugh-good
+Candidates: set(['ust', 'used', 'usitate'])
+not match
+******************************************
+
+Set: 6743
+Cans: 29
+Line: 213
+Misspelled Word: noooo
+Correct Word: no
+match
+******************************************
+
+Set: 3910
+Cans: 22
+Line: 214
+Misspelled Word: wknd
+Correct Word: weekend
+match
+******************************************
+
+Set: 9613
+Cans: 18
+Line: 215
+Misspelled Word: rollin
+Correct Word: rolling
+not match
+******************************************
+
+Set: 24929
+Cans: 97
+Line: 216
+Misspelled Word: serios
+Correct Word: serious
+match
+******************************************
+
+Set: 6771
+Cans: 24
+Line: 217
+Misspelled Word: ghe
+Correct Word: the
+not match
+******************************************
+
+Set: 10963
+Cans: 139
+Line: 218
+Misspelled Word: buggin
+Correct Word: bugging
+not match
+******************************************
+
+Set: 8992
+Cans: 40
+Line: 219
+Misspelled Word: heyyy
+Correct Word: hey
+match
+******************************************
+
+Set: 10963
+Cans: 106
+Line: 220
+Misspelled Word: baymoet
+Correct Word: baymoet
+not match
+******************************************
+
+Set: 3910
+Cans: 23
+Line: 221
+Misspelled Word: wildin
+Correct Word: wilding
+match
+******************************************
+
+Set: 24929
+Cans: 242
+Line: 222
+Misspelled Word: sd
+Correct Word: sd
+not match
+******************************************
+
+Set: 9613
+Cans: 22
+Line: 223
+Misspelled Word: riri
+Correct Word: riri
+not match
+******************************************
+
+Set: 12853
+Cans: 122
+Line: 224
+Misspelled Word: tty
+Correct Word: tty
+not match
+******************************************
+
+Set: 3910
+Cans: 131
+Line: 225
+Misspelled Word: wuz
+Correct Word: what's
+not match
+******************************************
+
+Set: 24929
+Cans: 67
+Line: 226
+Misspelled Word: sooo
+Correct Word: so
+match
+******************************************
+
+Set: 3418
+Cans: 27
+Line: 227
+Misspelled Word: vma
+Correct Word: vma
+not match
+******************************************
+
+Set: 10963
+Cans: 278
+Line: 228
+Misspelled Word: bcuz
+Correct Word: because
+match
+******************************************
+
+Set: 19783
+Cans: 165
+Line: 229
+Misspelled Word: cmputr
+Correct Word: computer
+match
+******************************************
+
+Set: 8786
+Cans: 90
+Line: 230
+Misspelled Word: isnt
+Correct Word: isn't
+not match
+******************************************
+
+Set: 6228
+Cans: 81
+Line: 231
+Misspelled Word: lefty-miller
+Correct Word: lefty-miller
+not match
+******************************************
+
+Set: 2239
+Cans: 62
+Line: 232
+Misspelled Word: kanye
+Correct Word: kanye
+not match
+******************************************
+
+Set: 12853
+Cans: 109
+Line: 233
+Misspelled Word: tavia
+Correct Word: tavia
+not match
+******************************************
+
+Set: 8992
+Cans: 62
+Line: 234
+Misspelled Word: hov
+Correct Word: hov
+not match
+******************************************
+
+Set: 6228
+Cans: 5
+Line: 235
+Misspelled Word: laurelton
+Correct Word: laurelton
+Candidates: set(['lorilet', 'laurelwood', 'laureled', 'lauraldehyde', 'lirellate'])
+not match
+******************************************
+
+Set: 2239
+Cans: 102
+Line: 236
+Misspelled Word: kacee
+Correct Word: kacee
+not match
+******************************************
+
+Set: 6771
+Cans: 53
+Line: 237
+Misspelled Word: gtg
+Correct Word: gtg
+not match
+******************************************
+
+Set: 12853
+Cans: 44
+Line: 238
+Misspelled Word: tomoroe
+Correct Word: tomorrow
+match
+******************************************
+
+Set: 24341
+Cans: 180
+Line: 239
+Misspelled Word: punkass
+Correct Word: punkass
+not match
+******************************************
+
+Set: 12853
+Cans: 180
+Line: 240
+Misspelled Word: thnx
+Correct Word: thanks
+match
+******************************************
+
+Set: 16974
+Cans: 53
+Line: 241
+Misspelled Word: alll
+Correct Word: all
+match
+******************************************
+
+Set: 6228
+Cans: 26
+Line: 242
+Misspelled Word: lovematch
+Correct Word: lovematch
+not match
+******************************************
+
+Set: 8786
+Cans: 34
+Line: 243
+Misspelled Word: imo
+Correct Word: imo
+not match
+******************************************
+
+Set: 24929
+Cans: 242
+Line: 244
+Misspelled Word: shotti
+Correct Word: shotgun
+not match
+******************************************
+
+Set: 12853
+Cans: 180
+Line: 245
+Misspelled Word: thanx
+Correct Word: thanks
+match
+******************************************
+
+Set: 3910
+Cans: 36
+Line: 246
+Misspelled Word: wilujeng
+Correct Word: wilujeng
+not match
+******************************************
+
+Set: 12853
+Cans: 53
+Line: 247
+Misspelled Word: twitcause
+Correct Word: twitcause
+not match
+******************************************
+
+Set: 24341
+Cans: 481
+Line: 248
+Misspelled Word: partyin
+Correct Word: partying
+not match
+******************************************
+
+Set: 10849
+Cans: 89
+Line: 249
+Misspelled Word: d4t
+Correct Word: that
+not match
+******************************************
+
+Set: 6743
+Cans: 29
+Line: 250
+Misspelled Word: noo
+Correct Word: no
+match
+******************************************
+
+Set: 24929
+Cans: 179
+Line: 251
+Misspelled Word: soemthing
+Correct Word: something
+match
+******************************************
+
+Set: 19783
+Cans: 128
+Line: 252
+Misspelled Word: chlorox
+Correct Word: chlorox
+not match
+******************************************
+
+Set: 19783
+Cans: 156
+Line: 253
+Misspelled Word: camino
+Correct Word: camino
+not match
+******************************************
+
+Set: 10849
+Cans: 89
+Line: 254
+Misspelled Word: dat
+Correct Word: that
+not match
+******************************************
+
+Set: 12853
+Cans: 94
+Line: 255
+Misspelled Word: twitterheads
+Correct Word: twitterheads
+not match
+******************************************
+
+Set: 380
+Cans: 1
+Line: 256
+Misspelled Word: xd
+Correct Word: xd
+Candidates: set(['xd'])
+match
+******************************************
+
+Set: 663
+Cans: 23
+Line: 257
+Misspelled Word: yu
+Correct Word: you
+match
+******************************************
+
+Set: 663
+Cans: 31
+Line: 258
+Misspelled Word: yt
+Correct Word: youtube
+not match
+******************************************
+
+Set: 2239
+Cans: 39
+Line: 259
+Misspelled Word: kindaa
+Correct Word: kindaa
+not match
+******************************************
+
+Set: 8992
+Cans: 40
+Line: 260
+Misspelled Word: heyyyy
+Correct Word: hey
+match
+******************************************
+
+Set: 24929
+Cans: 189
+Line: 261
+Misspelled Word: sicken'n
+Correct Word: sickening
+not match
+******************************************
+
+Set: 12853
+Cans: 44
+Line: 262
+Misspelled Word: tomorrowww
+Correct Word: tomorrow
+match
+******************************************
+
+Set: 8703
+Cans: 43
+Line: 263
+Misspelled Word: everytime
+Correct Word: everytime
+not match
+******************************************
+
+Set: 9613
+Cans: 137
+Line: 264
+Misspelled Word: readyy
+Correct Word: ready
+match
+******************************************
+
+Set: 8992
+Cans: 46
+Line: 265
+Misspelled Word: holdd
+Correct Word: hold
+match
+******************************************
+
+Set: 16361
+Cans: 17
+Line: 266
+Misspelled Word: usss
+Correct Word: us
+match
+******************************************
+
+Set: 6771
+Cans: 31
+Line: 267
+Misspelled Word: gettim
+Correct Word: getting
+not match
+******************************************
+
+Set: 8992
+Cans: 25
+Line: 268
+Misspelled Word: holdin
+Correct Word: holding
+match
+******************************************
+
+Set: 24341
+Cans: 74
+Line: 269
+Misspelled Word: pearlypoonkie
+Correct Word: pearlypoonkie
+not match
+******************************************
+
+Set: 12853
+Cans: 53
+Line: 270
+Misspelled Word: tatts
+Correct Word: tattoos
+not match
+******************************************
+
+Set: 19783
+Cans: 56
+Line: 271
+Misspelled Word: covina
+Correct Word: covina
+not match
+******************************************
+
+Set: 24929
+Cans: 101
+Line: 272
+Misspelled Word: skipday
+Correct Word: skipday
+not match
+******************************************
+
+Set: 8703
+Cans: 12
+Line: 273
+Misspelled Word: ee
+Correct Word: he
+not match
+******************************************
+
+Set: 12853
+Cans: 153
+Line: 274
+Misspelled Word: turnin
+Correct Word: turning
+not match
+******************************************
+
+Set: 0
+Cans: 1
+Line: 275
+Misspelled Word: 20yr
+Correct Word: 20yr
+Candidates: set(['20yr'])
+match
+******************************************
+
+Set: 8992
+Cans: 111
+Line: 276
+Misspelled Word: homegirls
+Correct Word: homegirls
+not match
+******************************************
+
+Set: 10849
+Cans: 190
+Line: 277
+Misspelled Word: dawg
+Correct Word: dog
+match
+******************************************
+
+Set: 24341
+Cans: 46
+Line: 278
+Misspelled Word: pippi's
+Correct Word: pippi's
+not match
+******************************************
+
+Set: 0
+Cans: 1
+Line: 279
+Misspelled Word: 7letters
+Correct Word: 7letters
+Candidates: set(['7letters'])
+match
+******************************************
+
+Set: 24929
+Cans: 274
+Line: 280
+Misspelled Word: signage
+Correct Word: signage
+not match
+******************************************
+
+Set: 0
+Cans: 1
+Line: 281
+Misspelled Word: 2day
+Correct Word: today
+Candidates: set(['2day'])
+not match
+******************************************
+
+Set: 8703
+Cans: 12
+Line: 282
+Misspelled Word: ew
+Correct Word: ew
+not match
+******************************************
+
+Set: 10849
+Cans: 139
+Line: 283
+Misspelled Word: douchesquad
+Correct Word: douchesquad
+not match
+******************************************
+
+Set: 663
+Cans: 53
+Line: 284
+Misspelled Word: yesssssss
+Correct Word: yes
+match
+******************************************
+
+Set: 6836
+Cans: 32
+Line: 285
+Misspelled Word: fxckin
+Correct Word: fucking
+not match
+******************************************
+
+Set: 8786
+Cans: 36
+Line: 286
+Misspelled Word: iza
+Correct Word: is
+match
+******************************************
+
+Set: 24341
+Cans: 69
+Line: 287
+Misspelled Word: prolly
+Correct Word: probably
+not match
+******************************************
+
+Set: 10849
+Cans: 41
+Line: 288
+Misspelled Word: dupri
+Correct Word: dupri
+not match
+******************************************
+
+Set: 19783
+Cans: 192
+Line: 289
+Misspelled Word: crembaathhhh
+Correct Word: crembaathhhh
+not match
+******************************************
+
+Set: 10963
+Cans: 60
+Line: 290
+Misspelled Word: boboy
+Correct Word: boboy
+not match
+******************************************
+
+Set: 10963
+Cans: 48
+Line: 291
+Misspelled Word: babydaddy
+Correct Word: babydaddy
+not match
+******************************************
+
+Set: 3418
+Cans: 61
+Line: 292
+Misspelled Word: vcu
+Correct Word: vcu
+not match
+******************************************
+
+Set: 6743
+Cans: 65
+Line: 293
+Misspelled Word: nite
+Correct Word: night
+not match
+******************************************
+
+Set: 24929
+Cans: 200
+Line: 294
+Misspelled Word: smh
+Correct Word: smh
+not match
+******************************************
+
+Set: 9613
+Cans: 252
+Line: 295
+Misspelled Word: rec
+Correct Word: recorder
+not match
+******************************************
+
+Set: 3910
+Cans: 41
+Line: 296
+Misspelled Word: waay
+Correct Word: way
+match
+******************************************
+
+Set: 7830
+Cans: 39
+Line: 297
+Misspelled Word: ouuuttt
+Correct Word: out
+match
+******************************************
+
+Set: 24929
+Cans: 63
+Line: 298
+Misspelled Word: smfh
+Correct Word: smfh
+not match
+******************************************
+
+Set: 10849
+Cans: 165
+Line: 299
+Misspelled Word: d-block
+Correct Word: d-block
+not match
+******************************************
+
+Set: 24341
+Cans: 71
+Line: 300
+Misspelled Word: puttn
+Correct Word: putting
+not match
+******************************************
+
+Set: 6228
+Cans: 47
+Line: 301
+Misspelled Word: laycool
+Correct Word: laycool
+not match
+******************************************
+
+Set: 6771
+Cans: 101
+Line: 302
+Misspelled Word: gota
+Correct Word: gotta
+not match
+******************************************
+
+Set: 19783
+Cans: 248
+Line: 303
+Misspelled Word: chrizzii
+Correct Word: chrizzii
+not match
+******************************************
+
+Set: 16974
+Cans: 23
+Line: 304
+Misspelled Word: ahahahaha
+Correct Word: ahaha
+not match
+******************************************
+
+Set: 12513
+Cans: 136
+Line: 305
+Misspelled Word: mmo
+Correct Word: mmo
+not match
+******************************************
+
+Set: 8992
+Cans: 46
+Line: 306
+Misspelled Word: horray
+Correct Word: hooray
+not match
+******************************************
+
+Set: 9613
+Cans: 59
+Line: 307
+Misspelled Word: rly
+Correct Word: really
+match
+******************************************
+
+Set: 6228
+Cans: 24
+Line: 308
+Misspelled Word: lmfaoo
+Correct Word: lmfaoo
+not match
+******************************************
+
+Set: 6743
+Cans: 29
+Line: 309
+Misspelled Word: ntn
+Correct Word: nothing
+not match
+******************************************
+
+Set: 8786
+Cans: 42
+Line: 310
+Misspelled Word: isuperlovecodah
+Correct Word: isuperlovecodah
+not match
+******************************************
+
+Set: 6836
+Cans: 11
+Line: 311
+Misspelled Word: favs
+Correct Word: favorites
+not match
+******************************************
+
+Set: 10963
+Cans: 114
+Line: 312
+Misspelled Word: brrr
+Correct Word: brr
+not match
+******************************************
+
+Set: 19783
+Cans: 125
+Line: 313
+Misspelled Word: cookin
+Correct Word: cooking
+not match
+******************************************
+
+Set: 9613
+Cans: 99
+Line: 314
+Misspelled Word: rikers
+Correct Word: rikers
+not match
+******************************************
+
+Set: 24929
+Cans: 115
+Line: 315
+Misspelled Word: shuld
+Correct Word: should
+match
+******************************************
+
+Set: 7830
+Cans: 48
+Line: 316
+Misspelled Word: okiee
+Correct Word: okay
+not match
+******************************************
+
+Set: 16974
+Cans: 25
+Line: 317
+Misspelled Word: atl
+Correct Word: atlanta
+not match
+******************************************
+
+Set: 10963
+Cans: 108
+Line: 318
+Misspelled Word: blahhh
+Correct Word: blahhh
+not match
+******************************************
+
+Set: 6836
+Cans: 21
+Line: 319
+Misspelled Word: fb
+Correct Word: facebook
+not match
+******************************************
+
+Set: 7830
+Cans: 21
+Line: 320
+Misspelled Word: oppa
+Correct Word: oppa
+not match
+******************************************
+
+Set: 8786
+Cans: 36
+Line: 321
+Misspelled Word: ish
+Correct Word: shit
+not match
+******************************************
+
+Set: 24929
+Cans: 189
+Line: 322
+Misspelled Word: sachin
+Correct Word: sachin
+not match
+******************************************
+
+Set: 0
+Cans: 1
+Line: 323
+Misspelled Word: 2marrow
+Correct Word: tomorrow
+Candidates: set(['2marrow'])
+not match
+******************************************
+
+Set: 12853
+Cans: 171
+Line: 324
+Misspelled Word: timee
+Correct Word: time
+match
+******************************************
+
+Set: 19783
+Cans: 127
+Line: 325
+Misspelled Word: coult
+Correct Word: could
+match
+******************************************
+
+Set: 10849
+Cans: 142
+Line: 326
+Misspelled Word: draggin
+Correct Word: dragging
+match
+******************************************
+
+Set: 663
+Cans: 53
+Line: 327
+Misspelled Word: yess
+Correct Word: yes
+match
+******************************************
+
+Set: 16974
+Cans: 154
+Line: 328
+Misspelled Word: asuhdhsauhua
+Correct Word: asuhdhsauhua
+not match
+******************************************
+
+Set: 6836
+Cans: 32
+Line: 329
+Misspelled Word: fuckin
+Correct Word: fucking
+not match
+******************************************
+
+Set: 10963
+Cans: 42
+Line: 330
+Misspelled Word: boiy
+Correct Word: boiy
+not match
+******************************************
+
+Set: 10963
+Cans: 60
+Line: 331
+Misspelled Word: babyyyy
+Correct Word: baby
+match
+******************************************
+
+Set: 8992
+Cans: 58
+Line: 332
+Misspelled Word: hawtness
+Correct Word: hotness
+match
+******************************************
+
+Set: 10963
+Cans: 70
+Line: 333
+Misspelled Word: blogger
+Correct Word: blogger
+not match
+******************************************
+
+Set: 3910
+Cans: 131
+Line: 334
+Misspelled Word: wass
+Correct Word: was
+match
+******************************************
+
+Set: 6836
+Cans: 65
+Line: 335
+Misspelled Word: flirtin
+Correct Word: flirting
+match
+******************************************
+
+Set: 0
+Cans: 1
+Line: 336
+Misspelled Word: 4get
+Correct Word: forget
+Candidates: set(['4get'])
+not match
+******************************************
+
+Set: 24341
+Cans: 259
+Line: 337
+Misspelled Word: pgh
+Correct Word: pittsburgh
+not match
+******************************************
+
+Set: 8992
+Cans: 59
+Line: 338
+Misspelled Word: hmwrk
+Correct Word: homework
+match
+******************************************
+
+Set: 9613
+Cans: 158
+Line: 339
+Misspelled Word: raight
+Correct Word: right
+match
+******************************************
+
+Set: 10963
+Cans: 25
+Line: 340
+Misspelled Word: ballmer
+Correct Word: ballmer
+not match
+******************************************
+
+Set: 19783
+Cans: 156
+Line: 341
+Misspelled Word: comin
+Correct Word: coming
+not match
+******************************************
+
+Set: 12853
+Cans: 53
+Line: 342
+Misspelled Word: teds
+Correct Word: ted's
+not match
+******************************************
+
+Set: 1603
+Cans: 28
+Line: 343
+Misspelled Word: justins
+Correct Word: justin's
+not match
+******************************************
+
+Set: 8786
+Cans: 34
+Line: 344
+Misspelled Word: iam
+Correct Word: iam
+not match
+******************************************
+
+Set: 8992
+Cans: 70
+Line: 345
+Misspelled Word: hott
+Correct Word: hot
+match
+******************************************
+
+Set: 24929
+Cans: 242
+Line: 346
+Misspelled Word: sweeeet
+Correct Word: sweet
+match
+******************************************
+
+Set: 6836
+Cans: 74
+Line: 347
+Misspelled Word: fucckitt
+Correct Word: fucckitt
+not match
+******************************************
+
+Set: 12513
+Cans: 82
+Line: 348
+Misspelled Word: myspace
+Correct Word: myspace
+not match
+******************************************
+
+Set: 16974
+Cans: 26
+Line: 349
+Misspelled Word: azbubo
+Correct Word: azbubo
+not match
+******************************************
+
+Set: 0
+Cans: 1
+Line: 350
+Misspelled Word: 2
+Correct Word: to
+Candidates: set(['2'])
+not match
+******************************************
+
+Set: 6743
+Cans: 37
+Line: 351
+Misspelled Word: nobodie
+Correct Word: nobody
+match
+******************************************
+
+Set: 8992
+Cans: 49
+Line: 352
+Misspelled Word: hustlin
+Correct Word: hustling
+not match
+******************************************
+
+Set: 9613
+Cans: 111
+Line: 353
+Misspelled Word: rockin
+Correct Word: rocking
+not match
+******************************************
+
+Set: 6771
+Cans: 48
+Line: 354
+Misspelled Word: goldson
+Correct Word: goldson
+not match
+******************************************
+
+Set: 8786
+Cans: 1653
+Line: 355
+Misspelled Word: interveiw
+Correct Word: interview
+match
+******************************************
+
+Set: 24929
+Cans: 176
+Line: 356
+Misspelled Word: smeaty
+Correct Word: smeaty
+not match
+******************************************
+
+Set: 2239
+Cans: 62
+Line: 357
+Misspelled Word: kno
+Correct Word: know
+match
+******************************************
+
+Set: 3910
+Cans: 131
+Line: 358
+Misspelled Word: wawes
+Correct Word: waves
+not match
+******************************************
+
+Set: 7830
+Cans: 48
+Line: 359
+Misspelled Word: ogs
+Correct Word: ogs
+not match
+******************************************
+
+Set: 9613
+Cans: 81
+Line: 360
+Misspelled Word: roids
+Correct Word: steroids
+not match
+******************************************
+
+Set: 12853
+Cans: 156
+Line: 361
+Misspelled Word: twords
+Correct Word: twords
+not match
+******************************************
+
+Set: 12853
+Cans: 70
+Line: 362
+Misspelled Word: thaa
+Correct Word: that
+not match
+******************************************
+
+Set: 10963
+Cans: 35
+Line: 363
+Misspelled Word: bieber
+Correct Word: bieber
+not match
+******************************************
+
+Set: 19783
+Cans: 149
+Line: 364
+Misspelled Word: cdata
+Correct Word: cdata
+not match
+******************************************
+
+Set: 12853
+Cans: 197
+Line: 365
+Misspelled Word: trippn
+Correct Word: tripping
+match
+******************************************
+
+Set: 24929
+Cans: 112
+Line: 366
+Misspelled Word: shoulnt
+Correct Word: shouldn't
+not match
+******************************************
+
+Set: 3910
+Cans: 82
+Line: 367
+Misspelled Word: wudd
+Correct Word: would
+not match
+******************************************
+
+Set: 24929
+Cans: 115
+Line: 368
+Misspelled Word: shld
+Correct Word: should
+match
+******************************************
+
+Set: 24341
+Cans: 827
+Line: 369
+Misspelled Word: preciate
+Correct Word: appreciate
+not match
+******************************************
+
+Set: 6228
+Cans: 66
+Line: 370
+Misspelled Word: lovee
+Correct Word: love
+match
+******************************************
+
+Set: 9613
+Cans: 49
+Line: 371
+Misspelled Word: rappin
+Correct Word: rapping
+not match
+******************************************
+
+Set: 6228
+Cans: 135
+Line: 372
+Misspelled Word: lmao
+Correct Word: lmao
+not match
+******************************************
+
+Set: 16974
+Cans: 114
+Line: 373
+Misspelled Word: anniversery
+Correct Word: anniversary
+match
+******************************************
+
+Set: 9613
+Cans: 80
+Line: 374
+Misspelled Word: rememberd
+Correct Word: remembered
+not match
+******************************************
+
+Set: 12853
+Cans: 242
+Line: 375
+Misspelled Word: thx
+Correct Word: thanks
+not match
+******************************************
+
+Set: 10849
+Cans: 71
+Line: 376
+Misspelled Word: durin
+Correct Word: durin
+not match
+******************************************
+
+Set: 10963
+Cans: 59
+Line: 377
+Misspelled Word: biebers
+Correct Word: bieber's
+not match
+******************************************
+
+Set: 2239
+Cans: 26
+Line: 378
+Misspelled Word: kissin
+Correct Word: kissing
+not match
+******************************************
+
+Set: 2239
+Cans: 62
+Line: 379
+Misspelled Word: knoee
+Correct Word: know
+match
+******************************************
+
+Set: 6743
+Cans: 29
+Line: 380
+Misspelled Word: nuthin
+Correct Word: nothing
+not match
+******************************************
+
+Set: 0
+Cans: 1
+Line: 381
+Misspelled Word: 18x
+Correct Word: 18x
+Candidates: set(['18x'])
+match
+******************************************
+
+Set: 9613
+Cans: 80
+Line: 382
+Misspelled Word: rememberr
+Correct Word: remember
+match
+******************************************
+
+Set: 10963
+Cans: 42
+Line: 383
+Misspelled Word: bwahahaha
+Correct Word: bwahaha
+not match
+******************************************
+
+Set: 12853
+Cans: 180
+Line: 384
+Misspelled Word: thamizh
+Correct Word: thamizh
+not match
+******************************************
+
+Set: 24341
+Cans: 114
+Line: 385
+Misspelled Word: phat
+Correct Word: fat
+not match
+******************************************
+
+Set: 10963
+Cans: 35
+Line: 386
+Misspelled Word: bberry
+Correct Word: blackberry
+not match
+******************************************
+
+Set: 2239
+Cans: 62
+Line: 387
+Misspelled Word: kimmy
+Correct Word: kimmy
+not match
+******************************************
+
+Set: 24929
+Cans: 237
+Line: 388
+Misspelled Word: screen-ed
+Correct Word: screen-ed
+not match
+******************************************
+
+Set: 6228
+Cans: 135
+Line: 389
+Misspelled Word: lmaooooo
+Correct Word: lmaooooo
+not match
+******************************************
+
+Set: 12853
+Cans: 70
+Line: 390
+Misspelled Word: theeee
+Correct Word: the
+match
+******************************************
+
+Set: 10849
+Cans: 138
+Line: 391
+Misspelled Word: dieingg
+Correct Word: dying
+match
+******************************************
+
+Set: 6836
+Cans: 119
+Line: 392
+Misspelled Word: fukk
+Correct Word: fuck
+not match
+******************************************
+
+Set: 10963
+Cans: 159
+Line: 393
+Misspelled Word: bridgr
+Correct Word: bridge
+match
+******************************************
+
+Set: 7830
+Cans: 10
+Line: 394
+Misspelled Word: ohhhh
+Correct Word: oh
+match
+******************************************
+
+Set: 12513
+Cans: 188
+Line: 395
+Misspelled Word: mins
+Correct Word: minutes
+not match
+******************************************
+
+Set: 10963
+Cans: 42
+Line: 396
+Misspelled Word: bhu
+Correct Word: bhu
+not match
+******************************************
+
+Set: 8786
+Cans: 23
+Line: 397
+Misspelled Word: iight
+Correct Word: alright
+not match
+******************************************
+
+Set: 6228
+Cans: 160
+Line: 398
+Misspelled Word: l-knuckles
+Correct Word: l-knuckles
+not match
+******************************************
+
+Set: 19783
+Cans: 349
+Line: 399
+Misspelled Word: congrats
+Correct Word: congratulations
+not match
+******************************************
+
+Set: 6228
+Cans: 31
+Line: 400
+Misspelled Word: lil
+Correct Word: little
+not match
+******************************************
+
+Set: 12513
+Cans: 282
+Line: 401
+Misspelled Word: mic
+Correct Word: mike
+match
+******************************************
+
+Set: 19783
+Cans: 349
+Line: 402
+Misspelled Word: congratz
+Correct Word: congratulations
+not match
+******************************************
+
+Set: 6743
+Cans: 29
+Line: 403
+Misspelled Word: nah
+Correct Word: no
+match
+******************************************
+
+Set: 6836
+Cans: 119
+Line: 404
+Misspelled Word: fasho
+Correct Word: fasho
+not match
+******************************************
+
+Set: 6228
+Cans: 66
+Line: 405
+Misspelled Word: liveeee
+Correct Word: live
+match
+******************************************
+
+Set: 10849
+Cans: 22
+Line: 406
+Misspelled Word: deadlies
+Correct Word: deadlines
+not match
+******************************************
+
+Set: 663
+Cans: 23
+Line: 407
+Misspelled Word: yeahh
+Correct Word: yeah
+match
+******************************************
+
+Set: 12513
+Cans: 282
+Line: 408
+Misspelled Word: mis
+Correct Word: miss
+match
+******************************************
+
+Set: 8703
+Cans: 17
+Line: 409
+Misspelled Word: eff
+Correct Word: fuck
+not match
+******************************************
+
+Set: 10963
+Cans: 164
+Line: 410
+Misspelled Word: boutah
+Correct Word: boutah
+not match
+******************************************
+
+Set: 7830
+Cans: 39
+Line: 411
+Misspelled Word: ohhdee
+Correct Word: ohhdee
+not match
+******************************************
+
+Set: 8786
+Cans: 34
+Line: 412
+Misspelled Word: inmy
+Correct Word: inmy
+not match
+******************************************
+
+Set: 12513
+Cans: 282
+Line: 413
+Misspelled Word: macs
+Correct Word: macs
+not match
+******************************************
+
+Set: 3910
+Cans: 41
+Line: 414
+Misspelled Word: wooow
+Correct Word: wooow
+not match
+******************************************
+
+Set: 10963
+Cans: 42
+Line: 415
+Misspelled Word: byeee
+Correct Word: bye
+match
+******************************************
+
+Set: 16974
+Cans: 23
+Line: 416
+Misspelled Word: aww
+Correct Word: aww
+not match
+******************************************
+
+Set: 10849
+Cans: 29
+Line: 417
+Misspelled Word: doooooooo
+Correct Word: do
+match
+******************************************
+
+Set: 10849
+Cans: 129
+Line: 418
+Misspelled Word: doin
+Correct Word: doing
+not match
+******************************************
+
+Set: 24929
+Cans: 264
+Line: 419
+Misspelled Word: showtime's
+Correct Word: showtime's
+not match
+******************************************
+
+Set: 3910
+Cans: 82
+Line: 420
+Misspelled Word: wata
+Correct Word: what
+match
+******************************************
+
+Set: 24929
+Cans: 242
+Line: 421
+Misspelled Word: shyt
+Correct Word: shit
+not match
+******************************************
+
+Set: 8992
+Cans: 11
+Line: 422
+Misspelled Word: hilirious
+Correct Word: hilarious
+match
+******************************************
+
+Set: 3910
+Cans: 82
+Line: 423
+Misspelled Word: wht
+Correct Word: what
+match
+******************************************
+
+Set: 3910
+Cans: 17
+Line: 424
+Misspelled Word: wasuupp
+Correct Word: wasuupp
+not match
+******************************************
+
+Set: 19783
+Cans: 202
+Line: 425
+Misspelled Word: comingg
+Correct Word: coming
+match
+******************************************
+
+Set: 12853
+Cans: 180
+Line: 426
+Misspelled Word: tnx
+Correct Word: thanks
+match
+******************************************
+
+Set: 24341
+Cans: 108
+Line: 427
+Misspelled Word: pedestrains
+Correct Word: pedestrians
+not match
+******************************************
+
+Set: 6836
+Cans: 119
+Line: 428
+Misspelled Word: fck
+Correct Word: fuck
+not match
+******************************************
+
+Set: 16361
+Cans: 10
+Line: 429
+Misspelled Word: u-tash
+Correct Word: u-tash
+not match
+******************************************
+
+Set: 6836
+Cans: 116
+Line: 430
+Misspelled Word: flocka
+Correct Word: flocka
+not match
+******************************************
+
+Set: 12513
+Cans: 136
+Line: 431
+Misspelled Word: mmmm
+Correct Word: mmmm
+not match
+******************************************
+
+Set: 6228
+Cans: 113
+Line: 432
+Misspelled Word: listenting
+Correct Word: listening
+match
+******************************************
+
+Set: 6836
+Cans: 29
+Line: 433
+Misspelled Word: follback
+Correct Word: follback
+not match
+******************************************
+
+Set: 12513
+Cans: 282
+Line: 434
+Misspelled Word: mixx
+Correct Word: mix
+match
+******************************************
+
+Set: 9613
+Cans: 59
+Line: 435
+Misspelled Word: reallllly
+Correct Word: really
+match
+******************************************
+
+Set: 3910
+Cans: 22
+Line: 436
+Misspelled Word: wkend
+Correct Word: weekend
+match
+******************************************
+
+Set: 8703
+Cans: 18
+Line: 437
+Misspelled Word: exp
+Correct Word: experience
+not match
+******************************************
+
+Set: 24929
+Cans: 237
+Line: 438
+Misspelled Word: screensaver
+Correct Word: screensaver
+not match
+******************************************
+
+Set: 0
+Cans: 1
+Line: 439
+Misspelled Word: 2mrw
+Correct Word: tomorrow
+Candidates: set(['2mrw'])
+not match
+******************************************
+
+Set: 8703
+Cans: 85
+Line: 440
+Misspelled Word: exausted
+Correct Word: exhausted
+match
+******************************************
+
+Set: 9613
+Cans: 252
+Line: 441
+Misspelled Word: rackss
+Correct Word: racks
+not match
+******************************************
+
+Set: 6743
+Cans: 29
+Line: 442
+Misspelled Word: niea
+Correct Word: niea
+not match
+******************************************
+
+Set: 1148
+Cans: 29
+Line: 443
+Misspelled Word: qot
+Correct Word: got
+not match
+******************************************
+
+Set: 16974
+Cans: 152
+Line: 444
+Misspelled Word: anyones
+Correct Word: anyone's
+not match
+******************************************
+
+Set: 6836
+Cans: 49
+Line: 445
+Misspelled Word: fone
+Correct Word: phone
+not match
+******************************************
+
+Set: 10963
+Cans: 42
+Line: 446
+Misspelled Word: bhee
+Correct Word: be
+match
+******************************************
+
+Set: 8703
+Cans: 58
+Line: 447
+Misspelled Word: ewkkk
+Correct Word: ewkkk
+not match
+******************************************
+
+Set: 24929
+Cans: 242
+Line: 448
+Misspelled Word: shittttt
+Correct Word: shit
+not match
+******************************************
+
+Set: 6743
+Cans: 68
+Line: 449
+Misspelled Word: nighting
+Correct Word: nighting
+not match
+******************************************
+
+Set: 24929
+Cans: 223
+Line: 450
+Misspelled Word: slippin
+Correct Word: slipping
+match
+******************************************
+
+Set: 24929
+Cans: 127
+Line: 451
+Misspelled Word: sureeeeeeeeeeeeeee
+Correct Word: sure
+match
+******************************************
+
+Set: 12853
+Cans: 125
+Line: 452
+Misspelled Word: tured
+Correct Word: tired
+match
+******************************************
+
+Set: 24341
+Cans: 467
+Line: 453
+Misspelled Word: probs
+Correct Word: probably
+not match
+******************************************
+
+Set: 16974
+Cans: 23
+Line: 454
+Misspelled Word: ayee
+Correct Word: ayee
+not match
+******************************************
+
+Set: 16361
+Cans: 10
+Line: 455
+Misspelled Word: u'll
+Correct Word: you'll
+not match
+******************************************
+
+Set: 24929
+Cans: 200
+Line: 456
+Misspelled Word: sayin
+Correct Word: saying
+not match
+******************************************
+
+Set: 6771
+Cans: 65
+Line: 457
+Misspelled Word: greenbay
+Correct Word: greenbay
+not match
+******************************************
+
+Set: 12513
+Cans: 103
+Line: 458
+Misspelled Word: mdizz
+Correct Word: mdizz
+not match
+******************************************
+
+Set: 7830
+Cans: 48
+Line: 459
+Misspelled Word: occ
+Correct Word: occ
+not match
+******************************************
+
+Set: 12513
+Cans: 188
+Line: 460
+Misspelled Word: mhmmms
+Correct Word: mhmmms
+not match
+******************************************
+
+Set: 8992
+Cans: 52
+Line: 461
+Misspelled Word: hrs
+Correct Word: hours
+not match
+******************************************
+
+Set: 6228
+Cans: 31
+Line: 462
+Misspelled Word: l0l
+Correct Word: l0l
+not match
+******************************************
+
+Set: 3910
+Cans: 41
+Line: 463
+Misspelled Word: wooo
+Correct Word: wooo
+not match
+******************************************
+
+Set: 24929
+Cans: 67
+Line: 464
+Misspelled Word: sooooooo
+Correct Word: so
+match
+******************************************
+
+Set: 12853
+Cans: 171
+Line: 465
+Misspelled Word: themm
+Correct Word: them
+match
+******************************************
+
+Set: 24929
+Cans: 177
+Line: 466
+Misspelled Word: sun-baking
+Correct Word: sun-baking
+not match
+******************************************
+
+Set: 16974
+Cans: 15
+Line: 467
+Misspelled Word: appearal
+Correct Word: apparel
+match
+******************************************
+
+Set: 16361
+Cans: 858
+Line: 468
+Misspelled Word: unfollow
+Correct Word: unfollow
+not match
+******************************************
+
+Set: 6836
+Cans: 269
+Line: 469
+Misspelled Word: frankiesanatra
+Correct Word: frankiesanatra
+not match
+******************************************
+
+Set: 3910
+Cans: 25
+Line: 470
+Misspelled Word: worrien
+Correct Word: worrying
+not match
+******************************************
+
+Set: 12513
+Cans: 167
+Line: 471
+Misspelled Word: matress
+Correct Word: mattress
+match
+******************************************
+
+Set: 10849
+Cans: 190
+Line: 472
+Misspelled Word: dj
+Correct Word: dj
+not match
+******************************************
+
+Set: 6228
+Cans: 31
+Line: 473
+Misspelled Word: lolol
+Correct Word: lolol
+not match
+******************************************
+
+Set: 9613
+Cans: 252
+Line: 474
+Misspelled Word: riwas
+Correct Word: riwas
+not match
+******************************************
+
+Set: 10849
+Cans: 190
+Line: 475
+Misspelled Word: dc
+Correct Word: dc
+not match
+******************************************
+
+Set: 10963
+Cans: 164
+Line: 476
+Misspelled Word: buyed
+Correct Word: buy
+not match
+******************************************
+
+Set: 19783
+Cans: 123
+Line: 477
+Misspelled Word: cpu
+Correct Word: cpu
+not match
+******************************************
+
+Set: 16974
+Cans: 23
+Line: 478
+Misspelled Word: awww
+Correct Word: awww
+not match
+******************************************
+
+Set: 10849
+Cans: 29
+Line: 479
+Misspelled Word: dy
+Correct Word: dye
+match
+******************************************
+
+Set: 9613
+Cans: 83
+Line: 480
+Misspelled Word: ruderobb
+Correct Word: ruderobb
+not match
+******************************************
+
+Set: 942
+Cans: 14
+Line: 481
+Misspelled Word: zaddie
+Correct Word: zaddie
+not match
+******************************************
+
+Set: 0
+Cans: 1
+Line: 482
+Misspelled Word: 2's
+Correct Word: 2's
+Candidates: set(["2's"])
+match
+******************************************
+
+Set: 24929
+Cans: 242
+Line: 483
+Misspelled Word: sht
+Correct Word: shit
+not match
+******************************************
+
+Set: 3910
+Cans: 82
+Line: 484
+Misspelled Word: withh
+Correct Word: with
+match
+******************************************
+
+Set: 16974
+Cans: 23
+Line: 485
+Misspelled Word: ahahaa
+Correct Word: ahahaa
+not match
+******************************************
+
+Set: 16974
+Cans: 160
+Line: 486
+Misspelled Word: ammmmmazing
+Correct Word: amazing
+match
+******************************************
+
+Set: 6836
+Cans: 66
+Line: 487
+Misspelled Word: foto
+Correct Word: photo
+not match
+******************************************
+
+Set: 16361
+Cans: 1
+Line: 488
+Misspelled Word: uu
+Correct Word: you
+Candidates: set(['u'])
+not match
+******************************************
+
+Set: 6743
+Cans: 63
+Line: 489
+Misspelled Word: nuhun
+Correct Word: nuhun
+not match
+******************************************
+
+Set: 6771
+Cans: 101
+Line: 490
+Misspelled Word: g0t
+Correct Word: got
+match
+******************************************
+
+Set: 12853
+Cans: 78
+Line: 491
+Misspelled Word: tlist
+Correct Word: tlist
+not match
+******************************************
+
+Set: 12853
+Cans: 115
+Line: 492
+Misspelled Word: thiknk
+Correct Word: think
+not match
+******************************************
+
+Set: 10963
+Cans: 278
+Line: 493
+Misspelled Word: bak
+Correct Word: back
+match
+******************************************
+
+Set: 3910
+Cans: 57
+Line: 494
+Misspelled Word: wifey
+Correct Word: wife
+match
+******************************************
+
+Set: 16974
+Cans: 154
+Line: 495
+Misspelled Word: asddaaswqasfeqqa
+Correct Word: asddaaswqasfeqqa
+not match
+******************************************
+
+Set: 10963
+Cans: 164
+Line: 496
+Misspelled Word: btw
+Correct Word: btw
+not match
+******************************************
+
+Set: 19783
+Cans: 434
+Line: 497
+Misspelled Word: cricinfo
+Correct Word: cricinfo
+not match
+******************************************
+
+Set: 10849
+Cans: 129
+Line: 498
+Misspelled Word: daamn
+Correct Word: damn
+match
+******************************************
+
+Set: 0
+Cans: 1
+Line: 499
+Misspelled Word: 3mths
+Correct Word: 3mths
+Candidates: set(['3mths'])
+match
+******************************************
+
+Set: 24929
+Cans: 80
+Line: 500
+Misspelled Word: sumfng
+Correct Word: something
+not match
+******************************************
+
+Set: 6743
+Cans: 15
+Line: 501
+Misspelled Word: nasalness
+Correct Word: nasalness
+not match
+******************************************
+
+Set: 8786
+Cans: 57
+Line: 502
+Misspelled Word: inhouse
+Correct Word: inhouse
+not match
+******************************************
+
+Set: 1148
+Cans: 29
+Line: 503
+Misspelled Word: qta
+Correct Word: qta
+not match
+******************************************
+
+Set: 24929
+Cans: 67
+Line: 504
+Misspelled Word: seo
+Correct Word: seo
+not match
+******************************************
+
+Set: 10849
+Cans: 32
+Line: 505
+Misspelled Word: drivin
+Correct Word: driving
+match
+******************************************
+
+Set: 6228
+Cans: 160
+Line: 506
+Misspelled Word: lookinass
+Correct Word: lookinass
+not match
+******************************************
+
+Set: 12513
+Cans: 9
+Line: 507
+Misspelled Word: movin
+Correct Word: moving
+Candidates: set(['mopan', 'myophan', 'mauveine', 'mauvine', 'muffin', 'meibomian', 'meibomia', 'mayhappen', 'mopane'])
+not match
+******************************************
+
+Set: 6743
+Cans: 47
+Line: 508
+Misspelled Word: natsha
+Correct Word: natsha
+not match
+******************************************
+
+Set: 16974
+Cans: 606
+Line: 509
+Misspelled Word: anti-christ
+Correct Word: anti-christ
+not match
+******************************************
+
+Set: 3910
+Cans: 82
+Line: 510
+Misspelled Word: whaat
+Correct Word: what
+match
+******************************************
+
+Set: 12853
+Cans: 127
+Line: 511
+Misspelled Word: thurr
+Correct Word: there
+match
+******************************************
+
+Set: 8786
+Cans: 27
+Line: 512
+Misspelled Word: icecream
+Correct Word: icecream
+not match
+******************************************
+
+Set: 8786
+Cans: 1
+Line: 513
+Misspelled Word: irl
+Correct Word: irl
+Candidates: set(['irl'])
+match
+******************************************
+
+Set: 12513
+Cans: 37
+Line: 514
+Misspelled Word: moviiie
+Correct Word: movie
+match
+******************************************
+
+Set: 12513
+Cans: 42
+Line: 515
+Misspelled Word: muh
+Correct Word: my
+match
+******************************************
+
+Set: 3910
+Cans: 36
+Line: 516
+Misspelled Word: watchin
+Correct Word: watching
+match
+******************************************
+
+Set: 8786
+Cans: 18
+Line: 517
+Misspelled Word: ikr
+Correct Word: ikr
+not match
+******************************************
+
+Set: 10849
+Cans: 54
+Line: 518
+Misspelled Word: diiiiiirty
+Correct Word: dirty
+match
+******************************************
+
+Set: 7830
+Cans: 43
+Line: 519
+Misspelled Word: omg
+Correct Word: omg
+not match
+******************************************
+
+Set: 12853
+Cans: 153
+Line: 520
+Misspelled Word: trynna
+Correct Word: trynna
+not match
+******************************************
+
+Set: 2239
+Cans: 49
+Line: 521
+Misspelled Word: kool
+Correct Word: cool
+not match
+******************************************
+
+Set: 24929
+Cans: 541
+Line: 522
+Misspelled Word: supporet
+Correct Word: support
+match
+******************************************
+
+Set: 6228
+Cans: 73
+Line: 523
+Misspelled Word: lodg
+Correct Word: lodged
+not match
+******************************************
+
+Set: 12853
+Cans: 70
+Line: 524
+Misspelled Word: tuu
+Correct Word: to
+match
+******************************************
+
+Set: 12513
+Cans: 42
+Line: 525
+Misspelled Word: meh
+Correct Word: me
+match
+******************************************
+
+Set: 12853
+Cans: 70
+Line: 526
+Misspelled Word: tuh
+Correct Word: to
+match
+******************************************
+
+Set: 12853
+Cans: 44
+Line: 527
+Misspelled Word: tomarra
+Correct Word: tomorrow
+match
+******************************************
+
+Set: 7830
+Cans: 43
+Line: 528
+Misspelled Word: omq
+Correct Word: omq
+not match
+******************************************
+
+Set: 7830
+Cans: 33
+Line: 529
+Misspelled Word: omw
+Correct Word: omw
+not match
+******************************************
+
+Set: 3910
+Cans: 7
+Line: 530
+Misspelled Word: wtf
+Correct Word: wtf
+Candidates: set(['witbooi', 'widdifow', 'whitetop', 'whiteboy', 'whitetip', 'wattape', 'watap'])
+not match
+******************************************
+
+Set: 1603
+Cans: 78
+Line: 531
+Misspelled Word: jk
+Correct Word: jk
+not match
+******************************************
+
+Set: 0
+Cans: 1
+Line: 532
+Misspelled Word: 2more
+Correct Word: 2more
+Candidates: set(['2more'])
+match
+******************************************
+
+Set: 3910
+Cans: 41
+Line: 533
+Misspelled Word: wh
+Correct Word: why
+match
+******************************************
+
+Set: 8786
+Cans: 1653
+Line: 534
+Misspelled Word: interestin
+Correct Word: interesting
+match
+******************************************
+
+Set: 1603
+Cans: 39
+Line: 535
+Misspelled Word: jb
+Correct Word: jb
+not match
+******************************************
+
+Set: 3910
+Cans: 131
+Line: 536
+Misspelled Word: wx
+Correct Word: weather
+not match
+******************************************
+
+Set: 7830
+Cans: 10
+Line: 537
+Misspelled Word: ooowa
+Correct Word: ooowa
+not match
+******************************************
+
+Set: 10963
+Cans: 194
+Line: 538
+Misspelled Word: bullshitin
+Correct Word: bullshitting
+not match
+******************************************
+
+Set: 3418
+Cans: 21
+Line: 539
+Misspelled Word: voicemail
+Correct Word: voicemail
+not match
+******************************************
+
+Set: 9613
+Cans: 252
+Line: 540
+Misspelled Word: rika
+Correct Word: rika
+not match
+******************************************
+
+Set: 8786
+Cans: 9
+Line: 541
+Misspelled Word: ilh
+Correct Word: ilh
+Candidates: set(['ilia', 'ilial', 'illy', 'illoyal', 'ill', 'ila', 'ilya', 'iliahi', 'iliau'])
+not match
+******************************************
+
+Set: 8703
+Cans: 22
+Line: 542
+Misspelled Word: etc
+Correct Word: etc
+not match
+******************************************
+
+Set: 16974
+Cans: 58
+Line: 543
+Misspelled Word: alot
+Correct Word: alot
+not match
+******************************************
+
+Set: 8703
+Cans: 151
+Line: 544
+Misspelled Word: enjing
+Correct Word: enjing
+not match
+******************************************
+
+Set: 12853
+Cans: 102
+Line: 545
+Misspelled Word: tlk
+Correct Word: talk
+match
+******************************************
+
+Set: 24929
+Cans: 107
+Line: 546
+Misspelled Word: stumbleupon
+Correct Word: stumbleupon
+not match
+******************************************
+
+Set: 16974
+Cans: 58
+Line: 547
+Misspelled Word: auri
+Correct Word: auri
+not match
+******************************************
+
+Set: 12513
+Cans: 113
+Line: 548
+Misspelled Word: mesoscale
+Correct Word: mesoscale
+not match
+******************************************
+
+Set: 19783
+Cans: 262
+Line: 549
+Misspelled Word: ck
+Correct Word: ck
+not match
+******************************************
+
+Set: 3910
+Cans: 48
+Line: 550
+Misspelled Word: weddinqq
+Correct Word: wedding
+match
+******************************************
+
+Set: 19783
+Cans: 262
+Line: 551
+Misspelled Word: cc
+Correct Word: cc
+not match
+******************************************
+
+Set: 19783
+Cans: 123
+Line: 552
+Misspelled Word: cb
+Correct Word: cb
+not match
+******************************************
+
+Set: 8703
+Cans: 24
+Line: 553
+Misspelled Word: effed
+Correct Word: fucked
+not match
+******************************************
+
+Set: 8992
+Cans: 62
+Line: 554
+Misspelled Word: hve
+Correct Word: have
+match
+******************************************
+
+Set: 12513
+Cans: 159
+Line: 555
+Misspelled Word: makin
+Correct Word: making
+not match
+******************************************
+
+Set: 6743
+Cans: 29
+Line: 556
+Misspelled Word: nooooo
+Correct Word: no
+match
+******************************************
+
+Set: 9613
+Cans: 137
+Line: 557
+Misspelled Word: retweet
+Correct Word: retweet
+not match
+******************************************
+
+Set: 1148
+Cans: 1
+Line: 558
+Misspelled Word: qarbaqe
+Correct Word: garbage
+Candidates: set(['qarbaqe'])
+not match
+******************************************
+
+Set: 24341
+Cans: 63
+Line: 559
+Misspelled Word: pujari
+Correct Word: pujari
+not match
+******************************************
+
+Set: 7830
+Cans: 39
+Line: 560
+Misspelled Word: outta
+Correct Word: outta
+not match
+******************************************
+
+Set: 10963
+Cans: 26
+Line: 561
+Misspelled Word: bbm
+Correct Word: bbm
+not match
+******************************************
+
+Set: 663
+Cans: 23
+Line: 562
+Misspelled Word: yay
+Correct Word: yay
+not match
+******************************************
+
+Set: 1603
+Cans: 14
+Line: 563
+Misspelled Word: jerkk
+Correct Word: jerk
+match
+******************************************
+
+Set: 10963
+Cans: 110
+Line: 564
+Misspelled Word: belieber
+Correct Word: belieber
+not match
+******************************************
+
+Set: 8703
+Cans: 14
+Line: 565
+Misspelled Word: eather
+Correct Word: either
+match
+******************************************
+
+Set: 6836
+Cans: 65
+Line: 566
+Misspelled Word: frm
+Correct Word: from
+match
+******************************************
+
+Set: 19783
+Cans: 262
+Line: 567
+Misspelled Word: coochie
+Correct Word: coochie
+not match
+******************************************
+
+Set: 7830
+Cans: 10
+Line: 568
+Misspelled Word: oooooo
+Correct Word: oooooo
+not match
+******************************************
+
+Set: 663
+Cans: 15
+Line: 569
+Misspelled Word: yal
+Correct Word: y'all
+not match
+******************************************
+
+Set: 12513
+Cans: 75
+Line: 570
+Misspelled Word: muthafucka
+Correct Word: muthafucka
+not match
+******************************************
+
+Set: 3910
+Cans: 36
+Line: 571
+Misspelled Word: watchinqq
+Correct Word: watching
+match
+******************************************
+
+Set: 10849
+Cans: 89
+Line: 572
+Misspelled Word: doood
+Correct Word: dude
+match
+******************************************
+
+Set: 24929
+Cans: 306
+Line: 573
+Misspelled Word: sesh
+Correct Word: session
+not match
+******************************************
+
+Set: 8992
+Cans: 55
+Line: 574
+Misspelled Word: hert
+Correct Word: hurt
+match
+******************************************
+
+Set: 663
+Cans: 23
+Line: 575
+Misspelled Word: yaa
+Correct Word: you
+match
+******************************************
+
+Set: 24341
+Cans: 46
+Line: 576
+Misspelled Word: popusas
+Correct Word: popusas
+not match
+******************************************
+
+Set: 16974
+Cans: 126
+Line: 577
+Misspelled Word: appology
+Correct Word: apology
+match
+******************************************
+
+Set: 0
+Cans: 1
+Line: 578
+Misspelled Word: 3yrs
+Correct Word: 3yrs
+Candidates: set(['3yrs'])
+match
+******************************************
+
+Set: 8703
+Cans: 21
+Line: 579
+Misspelled Word: evrybodi
+Correct Word: everybody
+match
+******************************************
+
+Set: 24929
+Cans: 67
+Line: 580
+Misspelled Word: sooooo
+Correct Word: so
+match
+******************************************
+
+Set: 6228
+Cans: 65
+Line: 581
+Misspelled Word: lokeren
+Correct Word: lokeren
+not match
+******************************************
+
+Set: 6836
+Cans: 269
+Line: 582
+Misspelled Word: frankperisis1
+Correct Word: frankperisis1
+not match
+******************************************
+
+Set: 10963
+Cans: 118
+Line: 583
+Misspelled Word: buyin
+Correct Word: buying
+not match
+******************************************
+
+Set: 8992
+Cans: 87
+Line: 584
+Misspelled Word: hmm
+Correct Word: hmm
+not match
+******************************************
+
+Set: 8992
+Cans: 402
+Line: 585
+Misspelled Word: haterz
+Correct Word: haters
+not match
+******************************************
+
+Set: 6743
+Cans: 112
+Line: 586
+Misspelled Word: niigga
+Correct Word: nigga
+not match
+******************************************
+
+Set: 16974
+Cans: 58
+Line: 587
+Misspelled Word: areee
+Correct Word: are
+match
+******************************************
+
+Set: 16361
+Cans: 1
+Line: 588
+Misspelled Word: utube
+Correct Word: youtube
+Candidates: set(['utopia'])
+not match
+******************************************
+
+Set: 6743
+Cans: 34
+Line: 589
+Misspelled Word: newyork
+Correct Word: newyork
+not match
+******************************************
+
+Set: 9613
+Cans: 81
+Line: 590
+Misspelled Word: rtshe
+Correct Word: rtshe
+not match
+******************************************
+
+Set: 24929
+Cans: 184
+Line: 591
+Misspelled Word: spiderman
+Correct Word: spiderman
+not match
+******************************************
+
+Set: 6228
+Cans: 11
+Line: 592
+Misspelled Word: lolss
+Correct Word: lolss
+not match
+******************************************
+
+Set: 24929
+Cans: 75
+Line: 593
+Misspelled Word: slp
+Correct Word: sleep
+match
+******************************************
+
+Set: 6836
+Cans: 49
+Line: 594
+Misspelled Word: fiiiine
+Correct Word: fine
+match
+******************************************
+
+Set: 6836
+Cans: 119
+Line: 595
+Misspelled Word: fux
+Correct Word: fuck
+not match
+******************************************
+
+Set: 24341
+Cans: 259
+Line: 596
+Misspelled Word: pshh
+Correct Word: pshh
+not match
+******************************************
+
+Set: 8992
+Cans: 40
+Line: 597
+Misspelled Word: heeyy
+Correct Word: hey
+match
+******************************************
+
+Set: 16974
+Cans: 110
+Line: 598
+Misspelled Word: ain
+Correct Word: ain't
+not match
+******************************************
+
+Set: 8992
+Cans: 40
+Line: 599
+Misspelled Word: hahaha
+Correct Word: haha
+not match
+******************************************
+
+Set: 16974
+Cans: 160
+Line: 600
+Misspelled Word: aanjn6
+Correct Word: aanjn6
+not match
+******************************************
+
+Set: 380
+Cans: 3
+Line: 601
+Misspelled Word: xx
+Correct Word: xx
+Candidates: set(['xicaque', 'xicak', 'xosa'])
+not match
+******************************************
+
+Set: 24341
+Cans: 150
+Line: 602
+Misspelled Word: pushin
+Correct Word: pushing
+not match
+******************************************
+
+Set: 3910
+Cans: 11
+Line: 603
+Misspelled Word: webcam
+Correct Word: webcam
+not match
+******************************************
+
+Set: 19783
+Cans: 143
+Line: 604
+Misspelled Word: cont
+Correct Word: continued
+not match
+******************************************
+
+Set: 12513
+Cans: 103
+Line: 605
+Misspelled Word: mytouch
+Correct Word: mytouch
+not match
+******************************************
+
+Set: 8786
+Cans: 10
+Line: 606
+Misspelled Word: ii
+Correct Word: I
+not match
+******************************************
+
+Set: 10849
+Cans: 19
+Line: 607
+Misspelled Word: dumbbb
+Correct Word: dumb
+match
+******************************************
+
+Set: 8786
+Cans: 34
+Line: 608
+Misspelled Word: im
+Correct Word: i'm
+not match
+******************************************
+
+Set: 8703
+Cans: 47
+Line: 609
+Misspelled Word: edcation
+Correct Word: education
+match
+******************************************
+
+Set: 6228
+Cans: 42
+Line: 610
+Misspelled Word: lhh
+Correct Word: lhh
+not match
+******************************************
+
+Set: 8786
+Cans: 36
+Line: 611
+Misspelled Word: ic
+Correct Word: ic
+not match
+******************************************
+
+Set: 6743
+Cans: 55
+Line: 612
+Misspelled Word: nappi
+Correct Word: nappi
+not match
+******************************************
+
+Set: 8786
+Cans: 11
+Line: 613
+Misspelled Word: itunes
+Correct Word: itunes
+not match
+******************************************
+
+Set: 12513
+Cans: 136
+Line: 614
+Misspelled Word: maannnn
+Correct Word: man
+match
+******************************************
+
+Set: 9613
+Cans: 252
+Line: 615
+Misspelled Word: reeses
+Correct Word: reeses
+not match
+******************************************
+
+Set: 12853
+Cans: 70
+Line: 616
+Misspelled Word: tupac
+Correct Word: tupac
+not match
+******************************************
+
+Set: 6771
+Cans: 10
+Line: 617
+Misspelled Word: gedda-b
+Correct Word: gedda-b
+not match
+******************************************
+
+Set: 12853
+Cans: 123
+Line: 618
+Misspelled Word: thinkin
+Correct Word: thinking
+match
+******************************************
+
+Set: 12853
+Cans: 16
+Line: 619
+Misspelled Word: tweetcaster
+Correct Word: tweetcaster
+not match
+******************************************
+
+Set: 3910
+Cans: 62
+Line: 620
+Misspelled Word: wierd
+Correct Word: weird
+match
+******************************************
+
+Set: 19783
+Cans: 422
+Line: 621
+Misspelled Word: curiousity
+Correct Word: curiosity
+match
+******************************************
+
+Set: 3910
+Cans: 26
+Line: 622
+Misspelled Word: wantin
+Correct Word: wanting
+match
+******************************************
+
+Set: 9613
+Cans: 25
+Line: 623
+Misspelled Word: remmebner
+Correct Word: remember
+not match
+******************************************
+
+Set: 24929
+Cans: 242
+Line: 624
+Misspelled Word: shawty
+Correct Word: shorty
+not match
+******************************************
+
+Set: 8703
+Cans: 189
+Line: 625
+Misspelled Word: embarrased
+Correct Word: embarrassed
+match
+******************************************
+
+Set: 10963
+Cans: 160
+Line: 626
+Misspelled Word: bussiness
+Correct Word: business
+match
+******************************************
+
+Set: 16974
+Cans: 131
+Line: 627
+Misspelled Word: askin
+Correct Word: asking
+not match
+******************************************
+
+Set: 6228
+Cans: 138
+Line: 628
+Misspelled Word: lookin
+Correct Word: looking
+not match
+******************************************
+
+Set: 24929
+Cans: 80
+Line: 629
+Misspelled Word: snappin
+Correct Word: snapping
+match
+******************************************
+
+Set: 2239
+Cans: 102
+Line: 630
+Misspelled Word: kush
+Correct Word: kush
+not match
+******************************************
+
+Set: 19783
+Cans: 262
+Line: 631
+Misspelled Word: cece's
+Correct Word: cece's
+not match
+******************************************
+
+Set: 3910
+Cans: 2
+Line: 632
+Misspelled Word: walmart
+Correct Word: walmart
+Candidates: set(['wilmer', 'wellnear'])
+not match
+******************************************
+
+Set: 12853
+Cans: 70
+Line: 633
+Misspelled Word: tofog
+Correct Word: tofog
+not match
+******************************************
+
+Set: 8703
+Cans: 87
+Line: 634
+Misspelled Word: espncricinfo
+Correct Word: espncricinfo
+not match
+******************************************
+
+Set: 24341
+Cans: 64
+Line: 635
+Misspelled Word: php
+Correct Word: php
+not match
+******************************************
+
+Set: 24341
+Cans: 150
+Line: 636
+Misspelled Word: possesion
+Correct Word: possession
+match
+******************************************
+
+Set: 6228
+Cans: 37
+Line: 637
+Misspelled Word: lecras
+Correct Word: lecras
+not match
+******************************************
+
+Set: 12513
+Cans: 37
+Line: 638
+Misspelled Word: mobi
+Correct Word: mobile
+not match
+******************************************
+
+Set: 8992
+Cans: 40
+Line: 639
+Misspelled Word: huyy
+Correct Word: huyy
+not match
+******************************************
+
+Set: 12853
+Cans: 122
+Line: 640
+Misspelled Word: tht
+Correct Word: that
+match
+******************************************
+
+Set: 19783
+Cans: 27
+Line: 641
+Misspelled Word: ccp
+Correct Word: ccp
+not match
+******************************************
+
+Set: 6743
+Cans: 29
+Line: 642
+Misspelled Word: nothin
+Correct Word: nothing
+not match
+******************************************
+
+Set: 6836
+Cans: 32
+Line: 643
+Misspelled Word: flippin
+Correct Word: flipping
+not match
+******************************************
+
+Set: 16974
+Cans: 385
+Line: 644
+Misspelled Word: animtion
+Correct Word: animation
+match
+******************************************
+
+Set: 10963
+Cans: 176
+Line: 645
+Misspelled Word: bicthh
+Correct Word: bitch
+not match
+******************************************
+
+Set: 24929
+Cans: 123
+Line: 646
+Misspelled Word: schl
+Correct Word: school
+match
+******************************************
+
+Set: 6228
+Cans: 66
+Line: 647
+Misspelled Word: loveeee
+Correct Word: love
+match
+******************************************
+
+Set: 1148
+Cans: 18
+Line: 648
+Misspelled Word: qoin
+Correct Word: going
+not match
+******************************************
+
+Set: 663
+Cans: 23
+Line: 649
+Misspelled Word: yhu
+Correct Word: you
+match
+******************************************
+
+Set: 1603
+Cans: 78
+Line: 650
+Misspelled Word: juss
+Correct Word: just
+not match
+******************************************
+
+Set: 24929
+Cans: 127
+Line: 651
+Misspelled Word: sorryy
+Correct Word: sorry
+match
+******************************************
+
+Set: 6771
+Cans: 19
+Line: 652
+Misspelled Word: givin
+Correct Word: giving
+not match
+******************************************
+
+Set: 6771
+Cans: 45
+Line: 653
+Misspelled Word: gainesville
+Correct Word: gainesville
+not match
+******************************************
+
+Set: 12853
+Cans: 70
+Line: 654
+Misspelled Word: theee
+Correct Word: the
+match
+******************************************
+
+Set: 24929
+Cans: 200
+Line: 655
+Misspelled Word: sum1
+Correct Word: someone
+match
+******************************************
+
+Set: 8786
+Cans: 719
+Line: 656
+Misspelled Word: inportant
+Correct Word: important
+match
+******************************************
+
+Set: 24929
+Cans: 150
+Line: 657
+Misspelled Word: soulja
+Correct Word: soulja
+not match
+******************************************
+
+Set: 9613
+Cans: 158
+Line: 658
+Misspelled Word: riqht
+Correct Word: right
+match
+******************************************
+
+Set: 3910
+Cans: 82
+Line: 659
+Misspelled Word: whtd
+Correct Word: whtd
+not match
+******************************************
+
+Set: 24929
+Cans: 112
+Line: 660
+Misspelled Word: selamat
+Correct Word: selamat
+not match
+******************************************
+
+Set: 2239
+Cans: 25
+Line: 661
+Misspelled Word: ketamine
+Correct Word: ketamine
+not match
+******************************************
+
+Set: 19783
+Cans: 262
+Line: 662
+Misspelled Word: cus
+Correct Word: because
+not match
+******************************************
+
+Set: 6228
+Cans: 152
+Line: 663
+Misspelled Word: lmcaaao
+Correct Word: lmcaaao
+not match
+******************************************
+
+Set: 7830
+Cans: 14
+Line: 664
+Misspelled Word: omfg
+Correct Word: omfg
+not match
+******************************************
+
+Set: 663
+Cans: 23
+Line: 665
+Misspelled Word: yaaay
+Correct Word: yay
+not match
+******************************************
+
+Set: 6771
+Cans: 5
+Line: 666
+Misspelled Word: gavaskar
+Correct Word: gavaskar
+Candidates: set(['gipsire', 'gypsography', 'gipser', 'gypsywort', 'gypsyry'])
+not match
+******************************************
+
+Set: 8992
+Cans: 40
+Line: 667
+Misspelled Word: hueh
+Correct Word: hueh
+not match
+******************************************
+
+Set: 12853
+Cans: 242
+Line: 668
+Misspelled Word: thak's
+Correct Word: thanks
+not match
+******************************************
+
+Set: 19783
+Cans: 262
+Line: 669
+Misspelled Word: cuz
+Correct Word: because
+not match
+******************************************
+
+Set: 10963
+Cans: 147
+Line: 670
+Misspelled Word: blog
+Correct Word: blog
+not match
+******************************************
+
+Set: 12853
+Cans: 123
+Line: 671
+Misspelled Word: thankin
+Correct Word: thinking
+match
+******************************************
+
+Set: 16974
+Cans: 23
+Line: 672
+Misspelled Word: ahhhh
+Correct Word: ah
+match
+******************************************
+
+Set: 0
+Cans: 1
+Line: 673
+Misspelled Word: 4
+Correct Word: for
+Candidates: set(['4'])
+not match
+******************************************
+
+Set: 24929
+Cans: 67
+Line: 674
+Misspelled Word: soooooo
+Correct Word: so
+match
+******************************************
+
+Set: 7830
+Cans: 10
+Line: 675
+Misspelled Word: ohhh
+Correct Word: oh
+match
+******************************************
+
+Set: 9613
+Cans: 100
+Line: 676
+Misspelled Word: rebeca
+Correct Word: rebeca
+not match
+******************************************
+
+Set: 6836
+Cans: 28
+Line: 677
+Misspelled Word: fansign
+Correct Word: fansign
+not match
+******************************************
+
+Set: 8992
+Cans: 62
+Line: 678
+Misspelled Word: hav
+Correct Word: have
+match
+******************************************
+
+Set: 10963
+Cans: 42
+Line: 679
+Misspelled Word: bio
+Correct Word: biology
+not match
+******************************************
+
+Set: 6743
+Cans: 21
+Line: 680
+Misspelled Word: nvr
+Correct Word: never
+match
+******************************************
+
+Set: 10849
+Cans: 40
+Line: 681
+Misspelled Word: dland
+Correct Word: dland
+not match
+******************************************
+
+Set: 2239
+Cans: 62
+Line: 682
+Misspelled Word: knoe
+Correct Word: know
+match
+******************************************
+
+Set: 12513
+Cans: 282
+Line: 683
+Misspelled Word: mos
+Correct Word: most
+not match
+******************************************
+
+Set: 16974
+Cans: 152
+Line: 684
+Misspelled Word: amc
+Correct Word: amc
+not match
+******************************************
+
+Set: 24929
+Cans: 124
+Line: 685
+Misspelled Word: sittin
+Correct Word: sitting
+not match
+******************************************
+
+Set: 10963
+Cans: 139
+Line: 686
+Misspelled Word: beggin
+Correct Word: begging
+not match
+******************************************
+
+Set: 6228
+Cans: 32
+Line: 687
+Misspelled Word: lovin
+Correct Word: loving
+not match
+******************************************
+
+Set: 2239
+Cans: 49
+Line: 688
+Misspelled Word: killa
+Correct Word: killa
+not match
+******************************************
+
+Set: 10849
+Cans: 190
+Line: 689
+Misspelled Word: dese
+Correct Word: these
+not match
+******************************************
+
+Set: 6743
+Cans: 14
+Line: 690
+Misspelled Word: nvm
+Correct Word: nevermind
+not match
+******************************************
+
+Set: 12513
+Cans: 82
+Line: 691
+Misspelled Word: megapixel
+Correct Word: megapixel
+not match
+******************************************
+
+Set: 10963
+Cans: 278
+Line: 692
+Misspelled Word: biq
+Correct Word: big
+match
+******************************************
+
+Set: 6228
+Cans: 59
+Line: 693
+Misspelled Word: let'em
+Correct Word: let'em
+not match
+******************************************
+
+Set: 6771
+Cans: 126
+Line: 694
+Misspelled Word: ganesh
+Correct Word: ganesh
+not match
+******************************************
+
+Set: 16974
+Cans: 57
+Line: 695
+Misspelled Word: ahit
+Correct Word: shit
+not match
+******************************************
+
+Set: 2239
+Cans: 102
+Line: 696
+Misspelled Word: keke
+Correct Word: keke
+not match
+******************************************
+
+Set: 0
+Cans: 1
+Line: 697
+Misspelled Word: 4me
+Correct Word: 4me
+Candidates: set(['4me'])
+match
+******************************************
+
+Set: 8992
+Cans: 40
+Line: 698
+Misspelled Word: h033
+Correct Word: hoe
+match
+******************************************
+
+Set: 10963
+Cans: 42
+Line: 699
+Misspelled Word: bwahahahahah
+Correct Word: bwahaha
+not match
+******************************************
+
+Set: 6743
+Cans: 112
+Line: 700
+Misspelled Word: nigga
+Correct Word: nigga
+not match
+******************************************
+
+Set: 24929
+Cans: 384
+Line: 701
+Misspelled Word: spongebob
+Correct Word: spongebob
+not match
+******************************************
+
+Set: 10963
+Cans: 42
+Line: 702
+Misspelled Word: boi
+Correct Word: boy
+match
+******************************************
+
+Set: 10963
+Cans: 42
+Line: 703
+Misspelled Word: b4
+Correct Word: before
+not match
+******************************************
+
+Set: 8786
+Cans: 1653
+Line: 704
+Misspelled Word: interestng
+Correct Word: interesting
+match
+******************************************
+
+Set: 19783
+Cans: 100
+Line: 705
+Misspelled Word: cleaaan
+Correct Word: clean
+match
+******************************************
+
+Set: 24341
+Cans: 109
+Line: 706
+Misspelled Word: playin
+Correct Word: playing
+not match
+******************************************
+
+Set: 16974
+Cans: 160
+Line: 707
+Misspelled Word: amzn
+Correct Word: amazing
+match
+******************************************
+
+Set: 6228
+Cans: 135
+Line: 708
+Misspelled Word: leanin
+Correct Word: leaning
+not match
+******************************************
+
+Set: 24929
+Cans: 306
+Line: 709
+Misspelled Word: sheesh
+Correct Word: sheesh
+not match
+******************************************
+
+Set: 6836
+Cans: 49
+Line: 710
+Misspelled Word: finna
+Correct Word: finna
+not match
+******************************************
+
+Set: 19783
+Cans: 41
+Line: 711
+Misspelled Word: cyyea
+Correct Word: cyyea
+not match
+******************************************
+
+Set: 9613
+Cans: 252
+Line: 712
+Misspelled Word: righh
+Correct Word: right
+not match
+******************************************
+
+Set: 19783
+Cans: 143
+Line: 713
+Misspelled Word: cnt
+Correct Word: can't
+not match
+******************************************
+
+Set: 8703
+Cans: 85
+Line: 714
+Misspelled Word: est
+Correct Word: est
+not match
+******************************************
+
+Set: 8992
+Cans: 70
+Line: 715
+Misspelled Word: hotttt
+Correct Word: hot
+match
+******************************************
+
+Set: 10963
+Cans: 41
+Line: 716
+Misspelled Word: bball
+Correct Word: basketball
+not match
+******************************************
+
+Set: 6836
+Cans: 110
+Line: 717
+Misspelled Word: feelign
+Correct Word: feeling
+not match
+******************************************
+
+Set: 6743
+Cans: 29
+Line: 718
+Misspelled Word: nooo
+Correct Word: no
+match
+******************************************
+
+Set: 12853
+Cans: 171
+Line: 719
+Misspelled Word: thaann
+Correct Word: than
+match
+******************************************
+
+Set: 6228
+Cans: 135
+Line: 720
+Misspelled Word: layin
+Correct Word: laying
+not match
+******************************************
+
+Set: 6836
+Cans: 80
+Line: 721
+Misspelled Word: finge
+Correct Word: finger
+not match
+******************************************
+
+Set: 24929
+Cans: 306
+Line: 722
+Misspelled Word: sucha
+Correct Word: sucha
+not match
+******************************************
+
+Set: 8992
+Cans: 59
+Line: 723
+Misspelled Word: happend
+Correct Word: happened
+not match
+******************************************
+
+Set: 16361
+Cans: 28
+Line: 724
+Misspelled Word: umm
+Correct Word: umm
+not match
+******************************************
+
+Set: 6743
+Cans: 29
+Line: 725
+Misspelled Word: newww
+Correct Word: new
+match
+******************************************
+
+Set: 8786
+Cans: 1
+Line: 726
+Misspelled Word: iphones
+Correct Word: iphone's
+Candidates: set(['ibanag'])
+not match
+******************************************
+
+Set: 10963
+Cans: 60
+Line: 727
+Misspelled Word: bf
+Correct Word: boyfriend
+not match
+******************************************
+
+Set: 10963
+Cans: 278
+Line: 728
+Misspelled Word: bg
+Correct Word: background
+not match
+******************************************
+
+Set: 24341
+Cans: 183
+Line: 729
+Misspelled Word: pls
+Correct Word: please
+match
+******************************************
+
+Set: 19783
+Cans: 27
+Line: 730
+Misspelled Word: cjyqcp
+Correct Word: cjyqcp
+not match
+******************************************
+
+Set: 10963
+Cans: 60
+Line: 731
+Misspelled Word: bb
+Correct Word: baby
+match
+******************************************
+
+Set: 10963
+Cans: 278
+Line: 732
+Misspelled Word: bc
+Correct Word: because
+match
+******************************************
+
+Set: 6228
+Cans: 24
+Line: 733
+Misspelled Word: lmfao
+Correct Word: lmfao
+not match
+******************************************
+
+Set: 10963
+Cans: 118
+Line: 734
+Misspelled Word: bn
+Correct Word: been
+match
+******************************************
+
+Set: 10963
+Cans: 42
+Line: 735
+Misspelled Word: bh
+Correct Word: bh
+not match
+******************************************
+
+Set: 24341
+Cans: 183
+Line: 736
+Misspelled Word: plz
+Correct Word: please
+match
+******************************************
+
+Set: 12513
+Cans: 103
+Line: 737
+Misspelled Word: madhats
+Correct Word: madhats
+not match
+******************************************
+
+Set: 12513
+Cans: 188
+Line: 738
+Misspelled Word: mini's
+Correct Word: mini's
+not match
+******************************************
+
+Set: 10963
+Cans: 164
+Line: 739
+Misspelled Word: bt
+Correct Word: but
+match
+******************************************
+
+Set: 8992
+Cans: 19
+Line: 740
+Misspelled Word: hosp
+Correct Word: hospital
+not match
+******************************************
+
+Set: 10963
+Cans: 278
+Line: 741
+Misspelled Word: bs
+Correct Word: bullshit
+not match
+******************************************
+
+Set: 24341
+Cans: 138
+Line: 742
+Misspelled Word: plott
+Correct Word: plot
+match
+******************************************
+
+Set: 16974
+Cans: 57
+Line: 743
+Misspelled Word: aite
+Correct Word: alright
+not match
+******************************************
+
+Set: 16974
+Cans: 151
+Line: 744
+Misspelled Word: acc
+Correct Word: actually
+not match
+******************************************
+
+Set: 7830
+Cans: 48
+Line: 745
+Misspelled Word: oj
+Correct Word: oj
+not match
+******************************************
+
+Set: 7830
+Cans: 10
+Line: 746
+Misspelled Word: oi
+Correct Word: oi
+not match
+******************************************
+
+Set: 380
+Cans: 3
+Line: 747
+Misspelled Word: xoxo
+Correct Word: xoxo
+Candidates: set(['xicaque', 'xicak', 'xosa'])
+not match
+******************************************
+
+Set: 8786
+Cans: 25
+Line: 748
+Misspelled Word: idt
+Correct Word: idt
+not match
+******************************************
+
+Set: 7830
+Cans: 39
+Line: 749
+Misspelled Word: otha
+Correct Word: other
+not match
+******************************************
+
+Set: 19783
+Cans: 52
+Line: 750
+Misspelled Word: chaturti
+Correct Word: chaturti
+not match
+******************************************
+
+Set: 16974
+Cans: 23
+Line: 751
+Misspelled Word: awwwh
+Correct Word: awwwh
+not match
+******************************************
+
+Set: 16974
+Cans: 257
+Line: 752
+Misspelled Word: angeles
+Correct Word: angeles
+not match
+******************************************
+
+Set: 8786
+Cans: 24
+Line: 753
+Misspelled Word: idk
+Correct Word: idk
+not match
+******************************************
+
+Set: 6228
+Cans: 5
+Line: 754
+Misspelled Word: lil'goon
+Correct Word: lil'goon
+Candidates: set(['loyalism', 'lawlessness', 'loyolism', 'loliginidae', 'lilacin'])
+not match
+******************************************
+
+Set: 24929
+Cans: 93
+Line: 755
+Misspelled Word: shoppin
+Correct Word: shopping
+not match
+******************************************
+
+Set: 7830
+Cans: 21
+Line: 756
+Misspelled Word: op
+Correct Word: op
+not match
+******************************************
+
+Set: 10849
+Cans: 93
+Line: 757
+Misspelled Word: dnt
+Correct Word: don't
+not match
+******************************************
+
+Set: 16974
+Cans: 218
+Line: 758
+Misspelled Word: afterall
+Correct Word: afterall
+not match
+******************************************
+
+Set: 12853
+Cans: 47
+Line: 759
+Misspelled Word: tyrell
+Correct Word: tyrell
+not match
+******************************************
+
+Set: 10963
+Cans: 164
+Line: 760
+Misspelled Word: bedddd
+Correct Word: bed
+match
+******************************************
+
+Set: 12853
+Cans: 34
+Line: 761
+Misspelled Word: twitcon
+Correct Word: twitcon
+not match
+******************************************
+
+Set: 16974
+Cans: 23
+Line: 762
+Misspelled Word: ahh
+Correct Word: ah
+match
+******************************************
+
+Set: 24929
+Cans: 179
+Line: 763
+Misspelled Word: sumthyn
+Correct Word: something
+match
+******************************************
+
+Set: 7830
+Cans: 14
+Line: 764
+Misspelled Word: owerrrr
+Correct Word: ow
+not match
+******************************************
+
+Set: 3910
+Cans: 41
+Line: 765
+Misspelled Word: www
+Correct Word: www
+not match
+******************************************
+
+Set: 24929
+Cans: 67
+Line: 766
+Misspelled Word: soo
+Correct Word: so
+match
+******************************************
+
+Set: 24341
+Cans: 50
+Line: 767
+Misspelled Word: ppl
+Correct Word: people
+match
+******************************************
+
+Set: 10849
+Cans: 129
+Line: 768
+Misspelled Word: damnnn
+Correct Word: damn
+match
+******************************************
+
+Set: 6771
+Cans: 31
+Line: 769
+Misspelled Word: google
+Correct Word: google
+not match
+******************************************
+
+Set: 0
+Cans: 1
+Line: 770
+Misspelled Word: 830am
+Correct Word: 830am
+Candidates: set(['830am'])
+match
+******************************************
+
+Set: 8703
+Cans: 55
+Line: 771
+Misspelled Word: eing
+Correct Word: being
+not match
+******************************************
+
+Set: 663
+Cans: 23
+Line: 772
+Misspelled Word: youu
+Correct Word: you
+match
+******************************************
+
+Set: 24341
+Cans: 452
+Line: 773
+Misspelled Word: pre-ordered
+Correct Word: pre-ordered
+not match
+******************************************
+
+Set: 8992
+Cans: 40
+Line: 774
+Misspelled Word: hatas
+Correct Word: haters
+not match
+******************************************
+
+Set: 16974
+Cans: 58
+Line: 775
+Misspelled Word: aree
+Correct Word: are
+match
+******************************************
+
+Set: 24929
+Cans: 179
+Line: 776
+Misspelled Word: sumtin
+Correct Word: something
+match
+******************************************
+
+Set: 12853
+Cans: 100
+Line: 777
+Misspelled Word: tamad
+Correct Word: tamad
+not match
+******************************************
+
+Set: 6743
+Cans: 43
+Line: 778
+Misspelled Word: naturalll
+Correct Word: natural
+match
+******************************************
+
+Set: 16974
+Cans: 96
+Line: 779
+Misspelled Word: apps
+Correct Word: apps
+not match
+******************************************
+
+Set: 19783
+Cans: 349
+Line: 780
+Misspelled Word: congradulations
+Correct Word: congratulations
+not match
+******************************************
+
+Set: 6228
+Cans: 31
+Line: 781
+Misspelled Word: lol
+Correct Word: lol
+not match
+******************************************
+
+Set: 6228
+Cans: 24
+Line: 782
+Misspelled Word: lmfaooo
+Correct Word: lmfaooo
+not match
+******************************************
+
+Set: 6228
+Cans: 221
+Line: 783
+Misspelled Word: los
+Correct Word: los
+not match
+******************************************
+
+Set: 3910
+Cans: 24
+Line: 784
+Misspelled Word: wordpress
+Correct Word: wordpress
+not match
+******************************************
+
+Set: 8703
+Cans: 18
+Line: 785
+Misspelled Word: every1
+Correct Word: everyone
+not match
+******************************************
+
+Set: 663
+Cans: 13
+Line: 786
+Misspelled Word: yrs
+Correct Word: years
+not match
+******************************************
+
+Set: 6771
+Cans: 24
+Line: 787
+Misspelled Word: g-6
+Correct Word: g-6
+not match
+******************************************
+
+Set: 8703
+Cans: 12
+Line: 788
+Misspelled Word: ehh
+Correct Word: ehh
+not match
+******************************************
+
+Set: 10963
+Cans: 129
+Line: 789
+Misspelled Word: blockin
+Correct Word: blocking
+match
+******************************************
+
+Set: 24341
+Cans: 777
+Line: 790
+Misspelled Word: priddis
+Correct Word: priddis
+not match
+******************************************
+
+Set: 19783
+Cans: 41
+Line: 791
+Misspelled Word: csprings
+Correct Word: csprings
+not match
+******************************************
+
+Set: 8992
+Cans: 40
+Line: 792
+Misspelled Word: hw
+Correct Word: how
+match
+******************************************
+
+Set: 1603
+Cans: 78
+Line: 793
+Misspelled Word: jus
+Correct Word: just
+not match
+******************************************
+
+Set: 10963
+Cans: 42
+Line: 794
+Misspelled Word: buh
+Correct Word: buh
+not match
+******************************************
+
+Set: 10963
+Cans: 164
+Line: 795
+Misspelled Word: boyt
+Correct Word: about
+not match
+******************************************
+
+Set: 3910
+Cans: 22
+Line: 796
+Misspelled Word: worlddd
+Correct Word: world
+match
+******************************************
+
+Set: 8786
+Cans: 719
+Line: 797
+Misspelled Word: imprv
+Correct Word: improve
+match
+******************************************
+
+Set: 6836
+Cans: 119
+Line: 798
+Misspelled Word: fics
+Correct Word: fictions
+not match
+******************************************
+
+Set: 24929
+Cans: 179
+Line: 799
+Misspelled Word: sumthings
+Correct Word: somethings
+not match
+******************************************
+
+Set: 16361
+Cans: 17
+Line: 800
+Misspelled Word: uz
+Correct Word: use
+match
+******************************************
+
+Set: 24929
+Cans: 143
+Line: 801
+Misspelled Word: supp
+Correct Word: up
+not match
+******************************************
+
+Set: 16974
+Cans: 23
+Line: 802
+Misspelled Word: ahahahha
+Correct Word: ahaha
+not match
+******************************************
+
+Set: 3910
+Cans: 17
+Line: 803
+Misspelled Word: wssp
+Correct Word: wssp
+not match
+******************************************
+
+Set: 24341
+Cans: 384
+Line: 804
+Misspelled Word: probley
+Correct Word: probably
+match
+******************************************
+
+Set: 24341
+Cans: 110
+Line: 805
+Misspelled Word: paintball
+Correct Word: paintball
+not match
+******************************************
+
+Set: 6228
+Cans: 112
+Line: 806
+Misspelled Word: lawd
+Correct Word: lord
+not match
+******************************************
+
+Set: 1603
+Cans: 5
+Line: 807
+Misspelled Word: jewlery
+Correct Word: jewelry
+Candidates: set(['jowler', 'jailer', 'jollier', 'jewelry', 'jeweler'])
+match
+******************************************
+
+Set: 1603
+Cans: 2
+Line: 808
+Misspelled Word: janele
+Correct Word: janele
+Candidates: set(['jemmily', 'jumelle'])
+not match
+******************************************
+
+Set: 16361
+Cans: 17
+Line: 809
+Misspelled Word: u've
+Correct Word: you've
+not match
+******************************************
+
+Set: 2239
+Cans: 40
+Line: 810
+Misspelled Word: ki
+Correct Word: ki
+not match
+******************************************
+
+Set: 6836
+Cans: 85
+Line: 811
+Misspelled Word: faar
+Correct Word: far
+match
+******************************************
+
+Set: 12513
+Cans: 42
+Line: 812
+Misspelled Word: myy
+Correct Word: my
+match
+******************************************
+
+Set: 7830
+Cans: 10
+Line: 813
+Misspelled Word: ohh
+Correct Word: oh
+match
+******************************************
+
+Set: 8992
+Cans: 37
+Line: 814
+Misspelled Word: htur
+Correct Word: htur
+not match
+******************************************
+
+Set: 12513
+Cans: 159
+Line: 815
+Misspelled Word: mackin
+Correct Word: mackin
+not match
+******************************************
+
+Set: 19783
+Cans: 202
+Line: 816
+Misspelled Word: comming
+Correct Word: coming
+match
+******************************************
+
+Set: 12853
+Cans: 113
+Line: 817
+Misspelled Word: themwasthedays
+Correct Word: themwasthedays
+not match
+******************************************
+
+Set: 12513
+Cans: 203
+Line: 818
+Misspelled Word: monsta
+Correct Word: monster
+match
+******************************************
+
+Set: 24929
+Cans: 274
+Line: 819
+Misspelled Word: siging
+Correct Word: singing
+not match
+******************************************
+
+Set: 12853
+Cans: 242
+Line: 820
+Misspelled Word: thiis
+Correct Word: this
+match
+******************************************
+
+Set: 6228
+Cans: 221
+Line: 821
+Misspelled Word: lyk
+Correct Word: like
+match
+******************************************
+
+Set: 663
+Cans: 23
+Line: 822
+Misspelled Word: yoo
+Correct Word: yoo
+not match
+******************************************
+
+Set: 24929
+Cans: 75
+Line: 823
+Misspelled Word: somr
+Correct Word: some
+not match
+******************************************
+
+Set: 6836
+Cans: 77
+Line: 824
+Misspelled Word: flutie
+Correct Word: flutie
+not match
+******************************************
+
+Set: 3910
+Cans: 24
+Line: 825
+Misspelled Word: wordfued
+Correct Word: wordfeud
+not match
+******************************************
+
+Set: 0
+Cans: 1
+Line: 826
+Misspelled Word: 1bluvision
+Correct Word: 1bluvision
+Candidates: set(['1bluvision'])
+match
+******************************************
+
+Set: 6743
+Cans: 65
+Line: 827
+Misspelled Word: nd
+Correct Word: and
+not match
+******************************************
+
+Set: 12853
+Cans: 125
+Line: 828
+Misspelled Word: tard
+Correct Word: retard
+not match
+******************************************
+
+Set: 8703
+Cans: 31
+Line: 829
+Misspelled Word: effin
+Correct Word: fucking
+not match
+******************************************
+
+Set: 663
+Cans: 53
+Line: 830
+Misspelled Word: yesss
+Correct Word: yes
+match
+******************************************
+
+Set: 12513
+Cans: 152
+Line: 831
+Misspelled Word: mnths
+Correct Word: months
+not match
+******************************************
+
+Set: 6743
+Cans: 65
+Line: 832
+Misspelled Word: nt
+Correct Word: not
+match
+******************************************
+
+Set: 12853
+Cans: 82
+Line: 833
+Misspelled Word: talkin
+Correct Word: talking
+match
+******************************************
+
+Set: 6743
+Cans: 29
+Line: 834
+Misspelled Word: nw
+Correct Word: now
+match
+******************************************
+
+Set: 24929
+Cans: 306
+Line: 835
+Misspelled Word: so-55ouz
+Correct Word: so-55ouz
+not match
+******************************************
+
+Set: 6771
+Cans: 76
+Line: 836
+Misspelled Word: gameday
+Correct Word: gameday
+not match
+******************************************
+
+Set: 12513
+Cans: 159
+Line: 837
+Misspelled Word: missin
+Correct Word: missing
+not match
+******************************************
+
+Set: 12853
+Cans: 44
+Line: 838
+Misspelled Word: tmr
+Correct Word: tomorrow
+match
+******************************************
+
+Set: 2239
+Cans: 8
+Line: 839
+Misspelled Word: keepin
+Correct Word: keeping
+Candidates: set(['koban', 'kevan', 'kayvan', 'khivan', 'kevyn', 'koppen', 'kevin', 'kippeen'])
+not match
+******************************************
+
+Set: 10849
+Cans: 29
+Line: 840
+Misspelled Word: du
+Correct Word: do
+match
+******************************************
+
+Set: 24341
+Cans: 109
+Line: 841
+Misspelled Word: plannin
+Correct Word: planning
+not match
+******************************************
+
+Set: 6771
+Cans: 101
+Line: 842
+Misspelled Word: goid
+Correct Word: good
+match
+******************************************
+
+Set: 10963
+Cans: 97
+Line: 843
+Misspelled Word: badass
+Correct Word: badass
+not match
+******************************************
+
+Set: 10849
+Cans: 70
+Line: 844
+Misspelled Word: dolla
+Correct Word: dollar
+not match
+******************************************
+
+Set: 6771
+Cans: 121
+Line: 845
+Misspelled Word: goin
+Correct Word: going
+not match
+******************************************
+
+Set: 6743
+Cans: 68
+Line: 846
+Misspelled Word: nxt
+Correct Word: next
+match
+******************************************
+
+Set: 12853
+Cans: 115
+Line: 847
+Misspelled Word: texted
+Correct Word: texted
+not match
+******************************************
+
+Set: 10963
+Cans: 278
+Line: 848
+Misspelled Word: bck
+Correct Word: back
+match
+******************************************
+
+Set: 24929
+Cans: 283
+Line: 849
+Misspelled Word: sincee
+Correct Word: since
+match
+******************************************
+
+Set: 8703
+Cans: 18
+Line: 850
+Misspelled Word: esp
+Correct Word: especially
+not match
+******************************************
+
+Set: 663
+Cans: 2
+Line: 851
+Misspelled Word: youtube
+Correct Word: youtube
+Candidates: set(['yetapa', 'yadava'])
+not match
+******************************************
+
+Set: 24929
+Cans: 179
+Line: 852
+Misspelled Word: sendin
+Correct Word: sending
+match
+******************************************
+
+Set: 24929
+Cans: 242
+Line: 853
+Misspelled Word: shoutout
+Correct Word: shoutout
+not match
+******************************************
+
+Set: 6771
+Cans: 24
+Line: 854
+Misspelled Word: gayyyyyy
+Correct Word: gay
+match
+******************************************
+
+Set: 16974
+Cans: 345
+Line: 855
+Misspelled Word: ashton
+Correct Word: ashton
+not match
+******************************************
+
+Set: 3910
+Cans: 82
+Line: 856
+Misspelled Word: waait
+Correct Word: wait
+match
+******************************************
+
+Set: 2239
+Cans: 26
+Line: 857
+Misspelled Word: kickin
+Correct Word: kicking
+not match
+******************************************
+
+Set: 3910
+Cans: 59
+Line: 858
+Misspelled Word: wheeree
+Correct Word: where
+match
+******************************************
+
+precision: 0.2985%, recall: 31.5851%, accu: 1.9814%
+time used 3.22

@@ -1,0 +1,433 @@
+Set: 7830
+Cans: 733
+Line: 1
+Misspelled Word: osx
+Correct Word: osx
+not match
+******************************************
+
+Set: 6771
+Cans: 3
+Line: 2
+Misspelled Word: gt
+Correct Word: got
+Candidates: set(['gagtooth', 'gigtree', 'gangtide'])
+not match
+******************************************
+
+Set: 6836
+Cans: 9
+Line: 3
+Misspelled Word: fawk
+Correct Word: fuck
+Candidates: set(['fawn', 'fawningly', 'fawning', 'fawnery', 'fawnskin', 'fawner', 'fawny', 'fawningness', 'fawnlike'])
+not match
+******************************************
+
+Set: 12853
+Cans: 4
+Line: 4
+Misspelled Word: themed
+Correct Word: themed
+Candidates: set(['themeless', 'theme', 'themelet', 'themer'])
+not match
+******************************************
+
+Set: 8786
+Cans: 11
+Line: 5
+Misspelled Word: irrate
+Correct Word: irate
+not match
+******************************************
+
+Set: 24929
+Cans: 1
+Line: 6
+Misspelled Word: suckss
+Correct Word: sucks
+Candidates: set(['suckstone'])
+not match
+******************************************
+
+Set: 9613
+Cans: 5
+Line: 7
+Misspelled Word: remeber
+Correct Word: remember
+Candidates: set(['rememberably', 'rememberability', 'rememberable', 'rememberer', 'remember'])
+match
+******************************************
+
+Set: 3910
+Cans: 19
+Line: 8
+Misspelled Word: wasstheedeaal
+Correct Word: wasstheedeaal
+not match
+******************************************
+
+Set: 6771
+Cans: 1
+Line: 9
+Misspelled Word: gf
+Correct Word: girlfriend
+Candidates: set(['gigful'])
+not match
+******************************************
+
+Set: 8703
+Cans: 6
+Line: 10
+Misspelled Word: elfsinjapan
+Correct Word: elfsinjapan
+Candidates: set(['elfin', 'elfship', 'excelsin', 'elfkin', 'elfinwood', 'elsin'])
+not match
+******************************************
+
+Set: 19783
+Cans: 3
+Line: 11
+Misspelled Word: cofused
+Correct Word: confused
+Candidates: set(['confusedly', 'confusedness', 'confused'])
+match
+******************************************
+
+Set: 6836
+Cans: 1
+Line: 12
+Misspelled Word: freakin
+Correct Word: freaking
+Candidates: set(['freakiness'])
+not match
+******************************************
+
+Set: 6228
+Cans: 40
+Line: 13
+Misspelled Word: liao
+Correct Word: liao
+not match
+******************************************
+
+Set: 16974
+Cans: 1
+Line: 14
+Misspelled Word: aquired
+Correct Word: acquired
+Candidates: set(['acquired'])
+match
+******************************************
+
+Set: 19783
+Cans: 3
+Line: 15
+Misspelled Word: chillin
+Correct Word: chilling
+Candidates: set(['chillingly', 'chilliness', 'chilling'])
+match
+******************************************
+
+Set: 8992
+Cans: 75
+Line: 16
+Misspelled Word: hmmm
+Correct Word: hmmm
+not match
+******************************************
+
+Set: 16974
+Cans: 625
+Line: 17
+Misspelled Word: allll
+Correct Word: all
+match
+******************************************
+
+Set: 8786
+Cans: 47
+Line: 18
+Misspelled Word: imma
+Correct Word: imma
+not match
+******************************************
+
+Set: 6836
+Cans: 1
+Line: 19
+Misspelled Word: farmington
+Correct Word: farmington
+Candidates: set(['farming'])
+not match
+******************************************
+
+Set: 12853
+Cans: 147
+Line: 20
+Misspelled Word: tt
+Correct Word: tt
+not match
+******************************************
+
+Set: 0
+Cans: 1
+Line: 21
+Misspelled Word: 0
+Correct Word: hey
+Candidates: set(['0'])
+not match
+******************************************
+
+Set: 8786
+Cans: 508
+Line: 22
+Misspelled Word: insya
+Correct Word: insya
+not match
+******************************************
+
+Set: 9613
+Cans: 6
+Line: 23
+Misspelled Word: retweets
+Correct Word: retweets
+Candidates: set(['resweep', 'retwine', 'retree', 'rabbitweed', 'retwist', 'redweed'])
+not match
+******************************************
+
+Set: 3910
+Cans: 36
+Line: 24
+Misspelled Word: wiff
+Correct Word: with
+not match
+******************************************
+
+Set: 12513
+Cans: 9
+Line: 25
+Misspelled Word: makeing
+Correct Word: making
+Candidates: set(['mantuamaking', 'merrymaking', 'marketing', 'modelmaking', 'mythmaking', 'matmaking', 'making', 'mintmaking', 'matchmaking'])
+match
+******************************************
+
+Set: 16361
+Cans: 1
+Line: 26
+Misspelled Word: uploaded
+Correct Word: uploaded
+Candidates: set(['unloaded'])
+not match
+******************************************
+
+Set: 12513
+Cans: 1
+Line: 27
+Misspelled Word: mouf
+Correct Word: mouth
+Candidates: set(['mouflon'])
+not match
+******************************************
+
+Set: 663
+Cans: 40
+Line: 28
+Misspelled Word: yihaaa
+Correct Word: yihaaa
+not match
+******************************************
+
+Set: 24929
+Cans: 149
+Line: 29
+Misspelled Word: sonqs
+Correct Word: songs
+not match
+******************************************
+
+Set: 6836
+Cans: 5
+Line: 30
+Misspelled Word: fuun
+Correct Word: fun
+Candidates: set(['furunculosis', 'furuncle', 'furunculoid', 'furunculous', 'furuncular'])
+not match
+******************************************
+
+Set: 6228
+Cans: 31
+Line: 31
+Misspelled Word: lurvv
+Correct Word: love
+not match
+******************************************
+
+Set: 6743
+Cans: 2
+Line: 32
+Misspelled Word: niqqa
+Correct Word: nigga
+Candidates: set(['nonunique', 'niquiran'])
+not match
+******************************************
+
+Set: 6743
+Cans: 4
+Line: 33
+Misspelled Word: neway
+Correct Word: anyway
+Candidates: set(['nonrenewable', 'nonrenewal', 'newar', 'newari'])
+not match
+******************************************
+
+Set: 1603
+Cans: 489
+Line: 34
+Misspelled Word: ja
+Correct Word: ja
+not match
+******************************************
+
+Set: 6836
+Cans: 1
+Line: 35
+Misspelled Word: facebook
+Correct Word: facebook
+Candidates: set(['facebread'])
+not match
+******************************************
+
+Set: 24929
+Cans: 1
+Line: 36
+Misspelled Word: sometimesz
+Correct Word: sometimes
+Candidates: set(['sometimes'])
+match
+******************************************
+
+Set: 6836
+Cans: 38
+Line: 37
+Misspelled Word: fab
+Correct Word: fab
+not match
+******************************************
+
+Set: 6228
+Cans: 5
+Line: 38
+Misspelled Word: lerman
+Correct Word: lerman
+Candidates: set(['leverman', 'lockerman', 'lumberman', 'lighterman', 'lehrman'])
+not match
+******************************************
+
+Set: 9613
+Cans: 5
+Line: 39
+Misspelled Word: ramen
+Correct Word: ramen
+Candidates: set(['ramental', 'rament', 'ramentiferous', 'ramentum', 'ramentaceous'])
+not match
+******************************************
+
+Set: 3910
+Cans: 3910
+Line: 40
+Misspelled Word: w00t
+Correct Word: w00t
+not match
+******************************************
+
+Set: 3418
+Cans: 7
+Line: 41
+Misspelled Word: vero
+Correct Word: vero
+Candidates: set(['veronica', 'verona', 'veronal', 'veronicellidae', 'veronicella', 'veronese', 'veronalism'])
+not match
+******************************************
+
+Set: 19783
+Cans: 29
+Line: 42
+Misspelled Word: chiick
+Correct Word: chick
+match
+******************************************
+
+Set: 6771
+Cans: 2
+Line: 43
+Misspelled Word: gatta
+Correct Word: gotta
+Candidates: set(['gatteridge', 'gatter'])
+not match
+******************************************
+
+Set: 16974
+Cans: 6
+Line: 44
+Misspelled Word: awhh
+Correct Word: awhh
+Candidates: set(['awheel', 'awhir', 'awhirl', 'awheft', 'awhile', 'awhet'])
+not match
+******************************************
+
+Set: 8992
+Cans: 567
+Line: 45
+Misspelled Word: hyd
+Correct Word: hyd
+not match
+******************************************
+
+Set: 24929
+Cans: 1
+Line: 46
+Misspelled Word: slowlyy
+Correct Word: slowly
+Candidates: set(['slowly'])
+match
+******************************************
+
+Set: 6228
+Cans: 652
+Line: 47
+Misspelled Word: lyke
+Correct Word: like
+match
+******************************************
+
+Set: 24929
+Cans: 1
+Line: 48
+Misspelled Word: s0ngg
+Correct Word: song
+Candidates: set(['sanggil'])
+not match
+******************************************
+
+Set: 6771
+Cans: 1
+Line: 49
+Misspelled Word: gettin
+Correct Word: getting
+Candidates: set(['getting'])
+match
+******************************************
+
+Set: 24929
+Cans: 1
+Line: 50
+Misspelled Word: soooo
+Correct Word: so
+Candidates: set(['sooloos'])
+not match
+******************************************
+
+precision: 0.1334%, recall: 22.0000%, accu: 8.0000%
+time used 31.44
