@@ -99,15 +99,15 @@ def calc_distance(string, _type=LEVEN, source=dictionary):
     ret = {}
     init_score = float('inf') if _type in DISTANCE_SET else 0
     if _type == LEVEN:
-        edit_distance = editdistance.eval
+        _func = editdistance.eval
     elif _type == GLOBAL:
-        edit_distance = calc_by_global_edit
+        _func = calc_by_global_edit
     elif _type == LOCAL:
-        edit_distance = calc_by_local_edit
+        _func = calc_by_local_edit
     else:
-        edit_distance = NGram.compare
+        _func = NGram.compare
     for word in source:
-        score = edit_distance(string, word)
+        score = _func(string, word)
         if score not in ret:
             ret[score] = []
         ret[score].append(word)
@@ -132,15 +132,15 @@ def calc_distance_by_thres(string, threshold, _type=LEVEN, source=dictionary):
         return source
     candidates = set([])
     if _type == LEVEN:
-        edit_distance = editdistance.eval
+        _func = editdistance.eval
     elif _type == GLOBAL:
-        edit_distance = calc_by_global_edit
+        _func = calc_by_global_edit
     elif _type == LOCAL:
-        edit_distance = calc_by_local_edit
+        _func = calc_by_local_edit
     else:
-        edit_distance = NGram.compare
+        _func = NGram.compare
     for word in source:
-        score = edit_distance(string, word)
+        score = _func(string, word)
         if _type in DISTANCE_SET:
             if score <= threshold:
                 candidates.add(word)
