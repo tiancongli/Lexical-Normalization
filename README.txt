@@ -1,3 +1,9 @@
+Methods to normalize the Twitter data. More specifically, by giving an unlabelled token, we expect the system to produce a normalized output, such like from tomoroe to tomorrow.
+
+The data set used here contains labelled- tokens.txt, labelled-tokens.txt, and dict.txt, which respectively represents the labelled, un- labelled data, and dictionary. Our system will use the labelled data to evaluate itself, and the final target is to give a canonical form of unlabelled data.
+
+Editdistance, soudex and ngram will be used to achieve the goal.
+
 The system is programmed by python 2.7
 The package is in 13 files and 1 directory:
 
